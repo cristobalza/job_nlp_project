@@ -3,6 +3,6 @@ Need:
 - large amount of jobn postings
 - salary associated with the job postings
 
-Steps:
-
-1. Scrape job posts from Indeed.com
+Data Sources:
+- Indeed, Glassdoor, and others
+- Cost of Living Indexes by City
