@@ -1,0 +1,8 @@
+Goal: predict job salaries for data related fields such as data science, analytics, business intelligenece, etc. through text classification and deep learning
+Need: 
+- large amount of jobn postings
+- salary associated with the job postings
+
+Steps:
+
+1. Scrape job posts from Indeed.com
