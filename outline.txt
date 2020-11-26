@@ -1,8 +1,15 @@
-Goal: predict job salaries for data related fields such as data science, analytics, business intelligenece, etc. through text classification and deep learning
+Goal: 
+    - predict job salaries for data related fields such as data science, analytics, business intelligenece, etc. through text classification and deep learning.
+    - Idea is to create an end-to-end Data driven and ML powered project
 Need: 
 - large amount of jobn postings
 - salary associated with the job postings
 
-Data Sources:
-- Indeed, Glassdoor, and others
-- Cost of Living Indexes by City
+DATA SCRAPING:
+- Scrape data from Indeed
+- Formating data
+- Look for specific jobs such as Data Scientist
+
+DATA CLEANING
+- Removing whitespaces, redundant descriptions, 
+- Save it as csv file in order to export it to a Jupyter Notebook in order to do Visualizations
