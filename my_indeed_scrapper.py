@@ -18,50 +18,69 @@ def get_record(card):
     Extract Job data from a single Job Post
     """
     atag = card.h2.a
+    # title
     try:
         job_title = atag.get('title')
     except:
         job_title = ''
+    # link
     try:
         job_link = 'https://www.indeed.com'+atag.get('href')
     except:
         job_link = ''
+    # company
     try:
         job_company = card.find('span', 'company').text.strip()
     except:
         job_company = ''
+    # location
     try:
         job_location = card.find('div', 'recJobLoc').get('data-rc-loc')
     except:
         job_location = ''
+    # summary
     try:
         job_summary = card.find('div', 'summary').text.strip()
     except:
         job_summary = ''
+    # post date
     try:
         post_date = card.find('span', 'date').text
     except:
         post_date = ''
+    # today date
     try:
         today_date = datetime.today().strftime('%Y-%m-%d')
     except:
         today_date = ''
+    # salary
     try:
         job_salary = card.find('span', 'salaryText').text.strip()
     except:
         job_salary = ''
-    
+    # remote job
     try:
         job_remote = card.find('span', 'remote').text.strip()
     except:
         job_remote = ''
-
+    # rating
     try:
         job_rating = card.find('span', 'ratingsContent').text.strip()
     except:
         job_rating = ''
 
-    result = (job_title, job_salary, job_company, job_location,job_remote, job_rating, job_summary, post_date, today_date, job_link)
+    result = (
+        job_title,
+        job_salary,
+        job_company,
+        job_location,
+        job_remote,
+        job_rating,
+        job_summary, 
+        post_date, 
+        today_date, 
+        job_link
+        )
     return result
 
 def extract(position, location):
