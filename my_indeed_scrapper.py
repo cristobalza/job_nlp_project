@@ -2,6 +2,7 @@ import csv
 from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
+import shutil, os
 
 # template = 'https://www.indeed.com/jobs?q={}&l={}'
 def get_url(position, location):
@@ -109,10 +110,19 @@ def extract(position, location):
         except AttributeError:
             break
     print(len(records))
-    with open('job_postings_data_scientist_sf.csv', 'w', newline='', encoding='utf-8') as f:
+    with open("./outputs/job_postings_data_scientist_sf.csv", mode= 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         writer.writerow(['job_title','salary', 'company', 'location','is_remote', 'job_rating', 'job_summary', 'post_date', 'extract_date', 'job_url'])
         writer.writerows(records)
+
+    # store_path = 'outputs'
+    # if not os.path.isdir(store_path):
+    #     os.makedirs('store_path')
+    #     shutil.move(writer,store_path)
+    # else:
+    #     shutil.move(writer,store_path)
+
+    
 
 extract('data scientist', 'San Francisco, CA')
 
