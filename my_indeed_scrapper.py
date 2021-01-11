@@ -93,9 +93,12 @@ def extract(position, location):
     records = []
 
     while True:
+        # header = {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36" ,'referer':'https://www.google.com/'}
+
         response = requests.get(url)
         # print(response.reason) # Expected to be OK
         # print(response.text)
+        # print(response.content)
         soup = BeautifulSoup(response.text, 'html.parser' )
         # print(soup)
         cards = soup.find_all('div', 'jobsearch-SerpJobCard')
@@ -115,13 +118,6 @@ def extract(position, location):
         writer.writerow(['job_title','salary', 'company', 'location','is_remote', 'job_rating', 'job_summary', 'post_date', 'extract_date', 'job_url'])
         writer.writerows(records)
 
-    # store_path = 'outputs'
-    # if not os.path.isdir(store_path):
-    #     os.makedirs('store_path')
-    #     shutil.move(writer,store_path)
-    # else:
-    #     shutil.move(writer,store_path)
-
 cities = [
     # 'Austin, TX',
     #         'Dallas, TX',
@@ -133,7 +129,7 @@ cities = [
     #         'Seattle, WA',
     #         'San Francisco',
     #         'Oakland, CA',
-            'Hayward, CA',
+            # 'Hayward, CA',
             'Atlanta, GA',
             'Huntsville, AL',
             'Denver, CO',
@@ -154,41 +150,5 @@ cities = [
 for i in cities:
     extract('data scientist', i)
 
-# url = get_url('senior accountant', 'charlotte nc')
 
-# response = requests.get(url)
-# # print(response.reason) # Expected to be OK
-
-# soup = BeautifulSoup(response.text, 'html.parser' )
-# cards = soup.find_all('div', 'jobsearch-SerpJobCard')
-
-# print(len(cards))
-
-# records = []
-
-# for card in cards:
-#     rec = get_record(card)
-#     records.append(rec)
-
-# print(records[0:3])
-
-# while True:
-#     try:
-#         url = 'https://www.indeed.com' + soup.find('a', {'aria-label': 'Next'}).get('href')
-#     except AttributeError:
-#         break
-
-#     response = requests.get(url)
-#     # print(response.reason) # Expected to be OK
-
-#     soup = BeautifulSoup(response.text, 'html.parser' )
-#     cards = soup.find_all('div', 'jobsearch-SerpJobCard')
-
-#     # print(len(cards))
-
-#     for card in cards:
-#         rec = get_record(card)
-#         records.append(rec)
-
-# print(len(records))
 
