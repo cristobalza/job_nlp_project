@@ -110,7 +110,7 @@ def extract(position, location):
         except AttributeError:
             break
     print(len(records))
-    with open("./outputs/job_postings_data_scientist_sf.csv", mode= 'w', newline='', encoding='utf-8') as f:
+    with open("./outputs/job_postings_data_scientist_"+location+".csv", mode= 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         writer.writerow(['job_title','salary', 'company', 'location','is_remote', 'job_rating', 'job_summary', 'post_date', 'extract_date', 'job_url'])
         writer.writerows(records)
@@ -122,9 +122,37 @@ def extract(position, location):
     # else:
     #     shutil.move(writer,store_path)
 
-    
+cities = [
+    # 'Austin, TX',
+    #         'Dallas, TX',
+    #         'Raleigh, NC',
+    #         'San Jose, CA',
+    #         'Sunnyvale, CA',
+    #         'Santa Clara, CA',
+    #         'Charlotte, NC',
+    #         'Seattle, WA',
+    #         'San Francisco',
+    #         'Oakland, CA',
+            'Hayward, CA',
+            'Atlanta, GA',
+            'Huntsville, AL',
+            'Denver, CO',
+            'Washington, D.C.',
+            'Boulder, CO',
+            'Durham, NC',
+            'Columbus, OH',
+            'Colorado Springs, CO',
+            'Boston, MA',
+            'Baltimore, MD',
+            'Madison, WI',
+            'San Diego, CA',
+            'Trenton, NJ',
+            'Los Angeles, CA',
+            'Houston, TX',
+            'New York, NY']
 
-extract('data scientist', 'San Francisco, CA')
+for i in cities:
+    extract('data scientist', i)
 
 # url = get_url('senior accountant', 'charlotte nc')
 

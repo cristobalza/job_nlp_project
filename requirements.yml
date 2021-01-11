@@ -1,0 +1,27 @@
+name: scrapper_ml
+
+dependencies:
+    - python=3.7
+    - pip>=19.0
+    - jupyter
+    - tensorflow=2.0
+    - keras
+    - scikit-learn
+    - scipy
+    - pandas
+    - pandas-datareader
+    - matplotlib
+    - seaborn 
+    - pillow
+    - tqdm
+    - requests
+    - h5py
+    - pyyaml
+    - flask
+    - boto3
+    - selenium
+    - beautifulsoup4
+    - pip:
+        - bayesian-optimization
+        - gym
+        - kaggle
