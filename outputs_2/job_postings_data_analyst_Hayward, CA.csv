@@ -1,1 +1,585 @@
 job_title,salary,company,location,is_remote,job_rating,job_summary,post_date,extract_date,job_url
+<<<<<<< HEAD
+=======
+Data Analyst,$53.33 an hour,The Mom Project,"Mountain View, CA",,,"Fluency working with large data sets/ data warehousing.
+Expert Excel data modeling and analysis skills.
+Proficient in Tableau and other data visualization tools…",Just posted,2021-01-11,https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BDp_epf89aHDQhKpPegNJQ_ldQpEFZQsM9OcONMGxWx6pU56EKHF58QjVdAUvn2gVAsk4amSWfXTefCOi9F3GkwvkOoKDzRAGldrm82KX_Hjp67-WZpnbcj5LP_pmmw538SeLye-1sru4o5wXg7ebG4aQXwPANrMparam_pPh-48Cdn7EZJuFRGVLv_mpZ0H9lZAq-HENLkw803QkctOZc35I6hoYVe2_IEZKw6mXoifFODsutQm9DpcXJaYyJlF6ftfp_wEp7mHN9SE-arPvuIGZ9sqaKQlGAuRGPXjm72KX8vZ55UTzNhFNXULzfpQHJMStSmntxpL1MzJikjq1tmRoO2nf8hvD8HBSAvsnZRev0J8M-hX4OMmJ8N5VzzAtff7pdLWY_2K2MjORAyOAM1JFj3jrlE28NOE5dt9IuIrZxVATjnD7tTpwP7so6qHRQNHCT_78EsIwxMknRmIhl27ExY9sVvKkmhmYAzAoym2st8drbNb9sbdtg36XFYbmyucFj0YoV04Y1D77PNbKG7cz2ZYYm0SxMv2VxXFfF-6z04ZtM845pBRZs1wewbVCWzX4hSs_WuQ==&p=0&fvj=0&vjs=3
+Data Analyst,,Study.com,"Mountain View, CA",,3.5,"The Data Analyst must be passionate about digging into data and understanding the stories the data are telling.
+Knowledge of advanced statistical concepts.",30+ days ago,2021-01-11,https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DTBdVKmZIyVUz9epjLLrinfsLp4iyHLMBJakMPxL5umFWkBnrul4OZfYAQQsTEzo4tnLRbZnfEmIiikkB8lgr-Hqp6JpqKcGJ8D_TjPVMk7msr0-hc7-K4ZcsaUUx0l36ia6AXOf16fzdlMvpl3Kut169elPf3GJ4pE2E2G_XTzGHyYeHk-kZQDbznHxfAGB52WB__eQt3OH3W8RdfV3c6d7_iOPvGW9bRG6VfIgYYJIHjoxytAcJikep7SZlKjDev7bSUSXY7nQ6qSHvjOMsSKqNIi89dWI1fnWiA4SVfp8WL-LJT5G5bC-5xNvbkumjWUaVEU52MfIJUdc9AlSjAO8DziNDAsG3246spJK9CYLRaKL1-OjN6YYIToNn12_8BxWQws9l2SZQ9lrhu6bO8SBCm-xmGsu-eEZKJYzAvuNiaK1hq1ScsUKKD62oGQZOqSnMB2VJPh-ejqiUiGGVMHCYV4Ut44i31OGW5etPuXNPNtYqyH6TnqtKoiag25StD-SikFrOTiw==&p=1&fvj=0&vjs=3
+Data Analyst,,Cornershop,"San Francisco, CA",Temporarily remote,3.7,"2+ years of relevant experience in business intelligence, research, data analytics, data science, or a related field.
+Proficiency with Google Sheets and Excel.",5 days ago,2021-01-11,https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CDg2PyOvLM5WFHaY3mOgSqyeWxPLwD-9Oy4oGnHKxnHB82L0JPb81JBwdgkPUDqNWURnntmgrmIV-f6yC3_rLoHzDZqOnOn2RxoEeUL_q7WnsfL1OaC2o8fw_HQTmfPBGFxd5aN4vOAqnNjoEiqMi_CXFp81TKe8s8Skgm_jG5jhrjxGJXrb8KjuJ-ShlO6QV2p25HRgBK7-nXF9uUIyPUZbEiElloZ9yx8X3EQkvKsikNL86ZRzRPZ1ynucf2Uy5f7TD1y9OtcJD5OdvsI2CYa1uSGJK_AkyQAfp3LEvYJjWTohMLE6pi0Z0VKr-8TGSE0WOB_ttJ5TBKUNsPORDWh2vNd_cstm5NZH8FVnsWyCRdnkuB-1GHzRfSqNsSLGzLa-GNTJIUaVhy71EG5DZNfqgFIitMFEjvm2CFKR1HdVc2mvXsRBcAFUqx2I1h9OzB4hTKA3IHktxaxcuDGrak&p=2&fvj=1&vjs=3
+Business Data Analyst,,Pinkerton,"Fremont, CA",,3.7,"Conduct data analysis to examine data sets to draw conclusions about the information contained therein.
+Lead and support data driven projects including;",29 days ago,2021-01-11,https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DEMI6QzMzxi0DD_pMYXICmFoJq-H5LrGXX8bv2zgXFduc3Z3hrGBGa2RXZy2On1fqfOHx-pGmDAM-y7M5YtKbhJvfUkP7_-QkCfs7EHT4dSOpejPeruNGgVaJjQKMOTWUVm3BtUtDH3kTO5CYMdaPXGzA21EXwrt7D58IdVG7EiRs9If7U0pCW0GDn7EmNzObXMaW4fznXiv51Wi6uqnITatb_odl5SlYCnAantoolZl2lf5mZXD9J8RblFsWV7-15pRBwHC4UXaEc8wtY044I-NDLcfKlYw8UR1yOYusCG_YzzHb9r5oWeag_IGLOkm-3dU6MeNdEH31NV3akrTMad82eLrgSqhYIkOuF8z8QRCv9TI8NvKXoOwO6nr9zPpyJ98B7I_KT8FdcqUVFX9AVaItfS8yeom0Ls-THc2xM7DFQZVOs6saQYw_t7rH9H4zzbdr30lJv5Q==&p=3&fvj=0&vjs=3
+Public Health Analyst,$26 - $31 an hour,Wollborg Michelson Recruiting,"Dublin, CA",,3.8,"Review and analyze case data for trends, alert HR and operations of potential risks.
+Generate reports from risk management systems, review and analyze data…",Today,2021-01-11,https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CWURYoHbCO4cmh1YL3bdIgPpolxL4J6fmUWVjpKFg0ATLIMpKGBF0gtBwnGeABQcup4ZnosNQe9hCaoOiRlUSAEcVe2aZxNJLFIn4-EGx5OfqoZukHRm76L9sr_bokgSY4t7V95DsJ1uDW_TQrxrVCF68yGWEsgPer9lmqYNswuJYi24GS2-QGwYkmW2lfC50-6zn38jv1xmukgFsabj43siiFOLVf85r7f3xDlw9eqNRKH3EPD4Fx7HEXTOs6GjcIoXLCyiM_WXJ28GfakDeKRgIHmQ_0CH5mA-xqZBXdZFtRvIszVKFXiR12a3f-_5Tn5vCgS5qlRkg3tMSIXai8cCM0VbSUcLmt0kLTHzJpmRkztxZUEfSqploxLWYOXyn8NJ8thpmforMhmmpBBxMnph8Woq3xfXDnHTdAWieiPGokRh7DP0HbEwEBSRa4ei9v1lYTuI2Ob3JdutWUtIf4&p=4&fvj=1&vjs=3
+Data Analyst,$40 - $50 an hour,Ryzen Solutions,"Fremont, CA",Remote,4.7,"Data warehousing, validation and visualization is a plus.
+I'm urgently looking for Data Analyst with 3-8 years of experience in coding/ writing scripts using…",7 days ago,2021-01-11,https://www.indeed.com/company/RYZEN-SOLUTIONS/jobs/Data-Analyst-501a5760e96603c7?fccid=021e5b9130f2eb79&vjs=3
+Data Analyst,,"Raybeam, Inc.","Mountain View, CA",Temporarily remote,,"4+ years of discovery and assessment of a client’s data portfolio, data tools, and data applications.
+Ability to manage a data ecosystem including ETL, data…",Today,2021-01-11,"https://www.indeed.com/company/Raybeam,-Inc./jobs/Data-Analyst-e74cff7ad6109d6b?fccid=8641f0a5fda917ff&vjs=3"
+Data Analyst,,Mighty Networks,"San Francisco Bay Area, CA",,,"Build scripts that will make our data evaluation process more flexible or scalable across data sets.
+Create and maintain rich interactive visualizations through…",Today,2021-01-11,https://www.indeed.com/company/Mighty-Networks/jobs/Data-Analyst-84aa1185c5e40333?fccid=251c57e5708f4cee&vjs=3
+Data Analyst,,Tesla,"Fremont, CA",,3.5,"As data analyst lead, document relevant timelines as well as deliverables and present to project steering committees.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=cb5d97e49aa27687&fccid=86e9be6ce380173e&vjs=3
+Product Data Analyst,,Waymo,"Mountain View, CA",,3.1,"Demonstrated ability to extract actionable insights from data.
+Analyze data to create a deeper understanding of the Waymo Driver and its behaviors.",3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=a9944e5669d017b8&fccid=73ceef0a2153d2b8&vjs=3
+Data Analyst - Entry Level,"$31,775 - $60,684 a year",MT Global,"San Francisco, CA",,,"Providing technical expertise on data storage structures, data mining, and data cleansing.
+Provide quality assurance of imported data, working with quality…",6 days ago,2021-01-11,https://www.indeed.com/company/Mt-Global/jobs/Data-Analyst-a4e304edd0876058?fccid=538f9ae95cd3fbad&vjs=3
+Data Analyst,,Rocketship Public Schools,"Redwood City, CA",,3.0,"The Analytics team at Rocketship drives strategic decision-making across the organization by building scalable data systems, providing accurate and accessible…",4 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=067852a334da6722&fccid=3aefb7a816fffc96&vjs=3
+Membership Data Warehouse Analyst,,Kaiser Permanente,"Pleasanton, CA",,4.1,"Business analyst supporting a membership data warehouse (MDW).
+Data warehousing user support including data validation and testing support.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=7ede6a450606fb41&fccid=48ecd526e3aa3225&vjs=3
+Data Analyst,,Spin Electric Scooters,"San Francisco, CA",Remote,3.1,"Minimum of 5 (3 with advanced degree) years of relevant experience in data science or analytics role.
+Analyze data and develop data models to enable self-serve…",4 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=d6511ae79828133b&fccid=2166988d55803caf&vjs=3
+Data Analyst Intern,,PayPal,"San Francisco, CA",,3.9,Aggregate data from various sources to construct streamlined data pipelines and integrate data from multiple PayPal systems.,30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=92366616300ca5c8&fccid=978d9fd9799d55a8&vjs=3
+Data Analyst Intern,,PayPal,"San Francisco, CA",,3.9,Aggregate data from various sources to construct streamlined data pipelines and integrate data from multiple PayPal systems.,30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=92366616300ca5c8&fccid=978d9fd9799d55a8&vjs=3
+Data Analyst/ Tableau Developer,"Up to $85,000 a year",Milestone Technologies,"Fremont, CA",,3.3,"Working Tableau experience for developing data visuals.
+Write queries, perform ad hoc data analysis, and create data visualizations to keep the nerve center of…",26 days ago,2021-01-11,https://www.indeed.com/company/Milestone-Technologies/jobs/Data-Analyst-17742c1f26530d01?fccid=2a4e80613bf74af0&vjs=3
+Data Labs Analyst Role,,TCS,"Redwood City, CA",,3.8,"Client is looking for Data Labs Analyst with Business & Data Analyst experience, will be important to have Business understanding and how the data will be used…",3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=44b2f7ac6a97943b&fccid=c78fdfc4443d4537&vjs=3
+Data Analyst,"$60,684 - $128,603 a year",MT Global US INC.,"Santa Clara, CA",Remote,,"Provide seamless and timely data access for your users.
+Debate data processing philosophies and methodologies with your team.
+Build reliable and dependable ETL.",28 days ago,2021-01-11,https://www.indeed.com/company/MT-Global-US-INC./jobs/Data-Analyst-c4dc233a5e4a414b?fccid=dd616958bd9ddc12&vjs=3
+Data Analyst,$45 - $50 an hour,Infologitech India pvt Ltd,"San Francisco, CA",Temporarily remote,,"Must have banking experience and must work from San Francisco by June of 2021.
+Experience with Fiserve Total Vision or Fidelity IBS system.",19 days ago,2021-01-11,https://www.indeed.com/company/Infologitech-India-pvt-Ltd/jobs/Data-Analyst-5dd45807a2f7e889?fccid=3d343ff32bd95bfa&vjs=3
+Research Data Analyst,"$5,875 - $6,505 a month",Sequoia Foundation,"Richmond, CA",Temporarily remote,,"Carry out data cleaning and descriptive analyses; summarize data runs and analyses.
+Two or more years of prior work experience with health data analyses or…",4 days ago,2021-01-11,https://www.indeed.com/company/Sequoia-Foundation/jobs/Research-Data-Analyst-506b1e27832b00c8?fccid=905f0ff8819d646e&vjs=3
+Data Analyst - Revenue Intelligence,,Twitter,"San Francisco, CA",,4.1,"Advanced experience with SQL and pulling data from relational databases.
+Simplify complex problems & huge data sets to extract non-obvious insights.",3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=2718373a635ce34a&fccid=7a3824693ee1074b&vjs=3
+Data Analyst (mid-level),,QuinStreet,"Foster City, CA",Temporarily remote,2.7,"Reporting – summarizing data and automating reports around campaign performance, which will be utilized frequently in client interactions.",3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=5d7fb01e268f8db2&fccid=26a49cbc28830f90&vjs=3
+"Data Analyst, Logistics",,Tesla,"Fremont, CA",,3.5,"Exceptional analytical skills in logistics, data visualization, and the ability to derive important information from data.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=3ef63b0392d2ff64&fccid=86e9be6ce380173e&vjs=3
+Data Analyst - Operations,,Spin,"San Francisco, CA",Remote,3.1,"Minimum of 5 (3 with advanced degree) years of relevant experience in data science or analytics role.
+Analyze data and develop data models to enable self-serve…",5 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=df45a2405270fa43&fccid=2166988d55803caf&vjs=3
+Research Data Analyst (6256U) 13997,,University of California Berkeley,"Berkeley, CA",,4.2,The purpose of the position is to assist with analysis of assessment and behavior data from big data sources in education such as massive open online courses (e…,21 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=5e8d54db76032dd7&fccid=db52f1353185d77b&vjs=3
+Biomedical Data Engineer / Researcher / Analyst,,Penumbra US,"Alameda, CA",,,"Integrate structured and unstructured data into existing infrastructure and test data integrity and quality.
+Familiarity with data modeling and machine learning…",Just posted,2021-01-11,https://www.indeed.com/rc/clk?jk=545c82db9f24ab8f&fccid=48d4b5e592158b7c&vjs=3
+Clinical Data Analyst,,8k Miles,"Pleasanton, CA",,,"Development of clinical data standards (operational, Clinical Data Interchange Standards Consortium (CDISC), Clinical data Acquisition standard Harmonization …",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=70bb04234efd1df1&fccid=236366e4abafb6b8&vjs=3
+Jr. Data Analyst,,Rivian Automotive,"Palo Alto, CA",,3.5,"Hands on data annotation experience is a plus.
+Annotate data to provide high quality labels in order to train machine learning model.
+1-3 years of experience.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=606043b7e405cad0&fccid=ab392afaee93f976&vjs=3
+data analyst,,Lead5 Media,"Newark, CA",,,"Perform data modeling, data analysis, and development of key performance indicators.
+2-3 years of experience in data mapping and/or integration documentation…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=295b10332d7e3f8f&fccid=10c8c64f62ae9220&vjs=3
+data analyst,,Lead5 Media,"Newark, CA",,,"Perform data modeling, data analysis, and development of key performance indicators.
+2-3 years of experience in data mapping and/or integration documentation…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=295b10332d7e3f8f&fccid=10c8c64f62ae9220&vjs=3
+Data Analyst,"$60,684 - $128,603 a year",MT Global,"San Jose, CA",,,"\* Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality.",20 days ago,2021-01-11,https://www.indeed.com/company/Mt-Global/jobs/Data-Analyst-9e6fc0589d57a586?fccid=538f9ae95cd3fbad&vjs=3
+Data Analyst- Product,,Weee! Inc,"Fremont, CA",,2.4,Partner with Data Engineering to craft our data infrastructure investments in support of BI needs and insure the proper tracking and quality of the data.,28 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=d6241ab32c1efa80&fccid=69e47485cd044190&vjs=3
+Data Analyst,,Beekeeper Marketing,"San Francisco, CA",Remote,,"Maintain internal data sources including: creating templates and forms for data collection, assisting with cleansing data, validating data, troubleshooting and…",28 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=aaa6dc813c3be401&fccid=e1faf0b05de5643c&vjs=3
+Data Analyst - : 21-00062,,Akraya Inc.,"San Jose, CA",Temporarily remote,3.7,Management of large amounts of data is a must as well as the ability to summarize it in a clean and impactful presentation format.,3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=d8811f9899650e47&fccid=474b9602e1305593&vjs=3
+"Analyst/Associate, Business Operations",,Tesla,"Fremont, CA",,3.5,"Lead pricing efforts for all vehicle products (Model S/3/X/Y and options) and new market entry.
+Team members are expected to analyze data, provide…",3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=abb8f962d8a74469&fccid=86e9be6ce380173e&vjs=3
+Biosample Operations Data Analyst,,"GRAIL, Inc.","Menlo Park, CA",,,The BOA will also have opportunities to use data-driven approaches to discover insights in data of high complexity and volume.,Just posted,2021-01-11,https://www.indeed.com/rc/clk?jk=ff0a07e972c6f205&fccid=4f7c76a18f44547a&vjs=3
+Survey Data Analyst,,Change Research,"San Francisco, CA",,4.5,"Able to explain data and numbers in simple language.
+Consult with clients about how the data answers their questions.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=cafc44e9f9a4ce47&fccid=4376208985ead045&vjs=3
+Data Analyst (SEO),,NerdWallet,"San Francisco, CA",Remote,3.9,"NerdWallet is seeking a data-driven and analytical professional for our Data Analytics team.
+This individual will focus on providing digital data solutions and…",27 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=6867c1512e2df0b7&fccid=46408d807c2416ce&vjs=3
+Data Analyst with SQL,,"Infinity Consulting Solutions, Inc.","Mountain View, CA",Remote,,"Experienced using SQL to query, analyze and present data.
+Conduct hands on data mining and analysis to identify issues and improve operational processes.",6 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=08444952d9fb7097&fccid=95eedc2455f7362c&vjs=3
+"Sr. Data Analyst, Energy Analytics",,Tesla,"Fremont, CA",,3.5,"Troubleshoot data integrity or data management issues.
+Ensure safe and secure data handling by partnering with key data protection, privacy and information…",20 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=4a7900e8470c3228&fccid=86e9be6ce380173e&vjs=3
+Senior Data Analyst,"$117,000 - $155,000 a year",Fivetran,"Oakland, CA",,,"Senior experience as a data analyst.
+Improve Fivetran documentation, blog, and customer support material by voicing the data analyst perspective.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=9704a460dc9381f2&fccid=09c9d04ca9a8a97a&vjs=3
+Data Analyst,,Atreca,"South San Francisco, CA",,,"Previous experience in data reporting.
+Previous experience as an analyst.
+Develop reports for data quality cleaning and monitoring.",5 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=5da81d3870c1763b&fccid=fbd1dd66b3972374&vjs=3
+Entry level Business Analyst,,Logos Infotech Inc,"San Francisco, CA",,,As a Business Analyst in IT Gathering Business Requirements from the client/Customer Interact with clients to understand and capture their functional and…,5 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=88f2a9efd9ca83ef&fccid=dd616958bd9ddc12&vjs=3
+PM Intern - Data Analyst (Remote - Summer 2021),,Splunk,"San Francisco, CA",Remote,4.1,We are seeking a product manager / data analyst to provide operational metrics and analysis around product adoption and success.,30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=feab5154394d43db&fccid=aef928e89977f7f0&vjs=3
+"Intern Data Analyst - Opportunity for working remotely Palo Alto, CA",,VMware,"Palo Alto, CA",Remote,4.0,"Maintain a high attention to detail in order to ensure the data integrity of architected solutions.
+Collect, process, and clean data from different sources…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=7323930d7d68c08f&fccid=c762a27145bd166e&vjs=3
+Data Analyst / Business Analyst,,Hash Technologies,"San Francisco, CA",,,"Knowledge on writing DED (Data Exchange Documents) and providing details on data sharing.
+Experience in writing effective Functional requirement Specification …",3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=72f4cc32ad05bdb1&fccid=7c5db915f3edb312&vjs=3
+Data Analyst,,Pocket Gems,"San Francisco, CA",,3.1,"You'll influence every decision that we make, from game design to marketing to finance.
+Deployed systems to monitor player satisfaction with our games.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=6a745d92a7d1832e&fccid=687134d04f99a767&vjs=3
+Market Data Research Analyst,,Logitech,"Newark, CA",,4.0,"Financial modeling and an interest in analyzing large amounts of data.
+Expertise in tools such as Tableau or other data visualization techniques.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=9a98f7b95686b7ca&fccid=30f93a2656b8e223&vjs=3
+Data Analyst Intern,,eBay Inc.,"San Jose, CA",,3.9,The Intern will also work with business owners and analyst teams in other parts of the eBay Marketplaces business to help them understand the impact their teams…,30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=2933005420ad8adb&fccid=0da3ed18c20a248d&vjs=3
+Data Analyst,,hint,"San Francisco, CA",,4.3,"You will build and maintain new dashboards with existing & new data sources.
+As an analyst, you will monitor, analyze and optimize marketing across eCommerce…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=067fc234c653589a&fccid=5688154fd8a952ef&vjs=3
+Data Analyst,,United One Solutions,"Newark, CA",,,"This position requires the ability to collect and analyze business data, apply financial business rules and receive & process product requests.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=ee36643adaf95389&fccid=3b86d9aa300662f9&vjs=3
+"Data Analyst, Global Analytics & Insights, Community Operations",,Uber,"San Francisco, CA",,3.7,"We have three broad purposes - (1) Own CommOps' data integrity and quality, metrics definitions, and reporting, (2) Inform CommOps leadership's priorities by…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=7c1f8332cf570686&fccid=f766f8bfbc3effb7&vjs=3
+Business analyst,$35 an hour,Agama Solutions,"Fremont, CA",Temporarily remote,3.8,"Troubleshoot data issues by validating different data sources.
+Create dashboards, spreadsheet analysis and presentations as requested by regional analysts.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=95d2af149030bed4&fccid=db130263a2af3230&vjs=3
+"Data Analyst, Process & Analytics",,Tesla,"Fremont, CA",,3.5,"Ability to query from large data set in SQL, analyze and present data.
+Use data to assess business impact and priorities.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=37ca98c365029e18&fccid=86e9be6ce380173e&vjs=3
+Business Analyst,,PG&E Corporation,"San Ramon, CA",,3.8,"Determines data needs, collects data, selects from different analytical techniques to achieve desired data outcomes.
+Data Analysis: Compiles and analyzes data.",1 day ago,2021-01-11,https://www.indeed.com/rc/clk?jk=1ce7c08d5f9f5392&fccid=0e8f04b45c1591f5&vjs=3
+Administrative Assistant / Data Analyst Supporting the DEA,,Forfeiture Support Associates,"San Francisco, CA",,3.7,"Accurately enters required data into one or more databases, documents, or spreadsheets.
+Attention to detail and the ability to read and follow directions is…",27 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=2770dbf0bcb5d6bb&fccid=8ce3cf8e1e3ddd14&vjs=3
+Data Analyst,,Mason Tillman Associates,"Oakland, CA",,,""" button above or please send your resume and a cover letter to jobs@mtaltd.com. Include “Data Analyst” in the email heading. Equal Opportunity Employer…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=b6195097e50eddce&fccid=db0c67c31c14172d&vjs=3
+Senior Data Analyst,,Alameda Health Consortium/Community Health Center...,"San Leandro, CA",,,"Working experience of data manipulation and analysis using healthcare data (claim, EHR, prefer Epic, disease registry etc.).
+High degree of attention to detail.",13 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=7bd5b72a67dd15de&fccid=df13fc2816b2ebd9&vjs=3
+Data Analyst,$45 - $50 an hour,SSIT Inc,"San Jose, CA",,,"3-5 years of business experience ·.
+Must have worked with Cisco before and have experience with Install base.*.
+Business & Data Analysis of Cisco Install Base.",26 days ago,2021-01-11,https://www.indeed.com/company/SSIT-INC/jobs/Data-Analyst-d8e4a55265b8ba2c?fccid=e79bc7bc609e2575&vjs=3
+Data Analyst,$45 - $50 an hour,SSIT Inc,"San Jose, CA",,,"3-5 years of business experience ·.
+Must have worked with Cisco before and have experience with Install base.*.
+Business & Data Analysis of Cisco Install Base.",26 days ago,2021-01-11,https://www.indeed.com/company/SSIT-INC/jobs/Data-Analyst-d8e4a55265b8ba2c?fccid=e79bc7bc609e2575&vjs=3
+Data Analyst and Applications Specialist,,G4S,"San Francisco, CA",,3.4,"Must possess a minimum of three (3) years of experience in tools development and/or data analysis.
+The GSOC Data Analyst and Applications Specialist designs and…",10 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=172fe1c075755ff1&fccid=95fcff06e59f4033&vjs=3
+Data Analyst,,Beshton Software,"San Francisco Bay Area, CA",,,"Identify trends in financial data and risk factors for businesses, process large amounts of collected data and make use of increased data points to increase…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=a2d8df85821fe56d&fccid=9d24d9fb191f8e45&vjs=3
+Sales Analyst,"$105,000 - $135,000 a year",Fivetran,"Oakland, CA",,,"Responsible for business analytics work through all phases, including data quality, data analysis, data visualization, and presentation of results and…",24 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=747ca9577baf60c5&fccid=09c9d04ca9a8a97a&vjs=3
+Business Data Analyst,,CBL SOLUTIONS INC,"Santa Clara, CA",,,"Ability to take the disparate data and translate into insights that needs to be ingested into Gainsight CRM.
+Job Title : Business / Data Analyst*.",7 days ago,2021-01-11,https://www.indeed.com/company/CBL-Solutions-Inc/jobs/Business-Data-Analyst-c4d69e629ff5b469?fccid=5585efa68eed99b1&vjs=3
+GSST Data Analyst II,,Milestone Technologies,"Fremont, CA",,3.3,"Write queries, perform ad hoc data analysis, and create data visualizations to keep the nerve center of our operations engine running at full speed.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=bd5ca8ea61a0cfa7&fccid=2a4e80613bf74af0&vjs=3
+123 QUALITY ANALYTICS - Senior Business Intelligence Analyst,"$102,770 - $154,150 a year",Alameda Alliance,"Alameda, CA",,2.5,"Create data sets, extract and synthesize data..
+This position requires an in-depth understanding of healthcare operations and data (e.g. member, claims,…",3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=0020d30e73adebb8&fccid=540d1028cf8a5b40&vjs=3
+Data Analyst,,TCS,"San Francisco, CA",,3.8,"Mortgage Lending Data Analyst or Mortgage Insurance data analyst expertise.
+Exposure in working SQL Server ETL and data warehousing techniques.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=1d9869d8643ee9bb&fccid=c78fdfc4443d4537&vjs=3
+Financial Data Analyst,,Earnin,"Palo Alto, CA",,,"You have 3-5 years experience in an analytical role.
+Be the subject matter expert to the financial team on data trends and ensure data integrity and quality.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=6b6dc9b24a8972a3&fccid=ac5b6e59f4a450b0&vjs=3
+Data Analyst,,Jobscan,"Oakland, CA",,,"Design, develop and deliver data solutions including ad hoc analysis and data visualizations.
+Experience working with product data.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=daa320552735aee3&fccid=d7bf3dbc3a7f112e&vjs=3
+SQL Data Analyst,$50 - $60 an hour,ANB Sourcing LLC,"Santa Clara, CA",Temporarily remote,,"SQL Queries: 5 years (Required).
+Should have ex. with SQL Queries.
+Should have exp. with Data Mapping.
+Should have exp. with Data Modeling.",28 days ago,2021-01-11,https://www.indeed.com/company/ABN-Consulting/jobs/SQL-Data-Analyst-1bff8873cfda0d0e?fccid=ec7869d226f1e8bb&vjs=3
+"Data Analyst, Data and Relevancy, Finance",,Wish,"San Francisco, CA",,3.9,"3+ years of work experience in doing finance/business data analysis.
+Working knowledge of data visualization tools (Looker, Tableau etc.).",27 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=2ec5ab29d95dcc2f&fccid=617690ce838507f3&vjs=3
+Data Analyst,,"Ballast Investments, LLC","San Francisco, CA",,,"Understanding of data management and processes.
+Pull and manage source data from Yardi and Procore systems utilized to create analysis reports in Tableau and…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=f859905ee7dff8ce&fccid=7fd972d7373f1b96&vjs=3
+Customer Data Analyst intern,,NESTMii GROUP Inc.,"San Jose, CA",Remote,,"Update and maintain customer data.
+Identify opportunities based on market trends and sales data.
+Within 5 years, thousands of our customers have fully…",30+ days ago,2021-01-11,https://www.indeed.com/company/NESTMii-GROUP-Inc./jobs/Customer-Data-Analyst-Intern-536b477a1467961f?fccid=5e48425a5a625752&vjs=3
+"IT Data Analyst, Principal",,Blue Shield of California,"Oakland, CA",,3.6,"Identify and escalate data & analytics priorities requiring enterprise data and analytics governance review.
+Extensive knowledge of healthcare data and advanced…",3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=9ae6913711e47367&fccid=104dac531ec80260&vjs=3
+Customer Data Analyst intern,,NESTMii GROUP Inc.,"San Jose, CA",Remote,,"Update and maintain customer data.
+Identify opportunities based on market trends and sales data.
+Within 5 years, thousands of our customers have fully…",30+ days ago,2021-01-11,https://www.indeed.com/company/NESTMii-GROUP-Inc./jobs/Customer-Data-Analyst-Intern-536b477a1467961f?fccid=5e48425a5a625752&vjs=3
+Statistical and Research Data Analyst,,"Agilent Technologies, Inc.","Santa Clara, CA",Remote,4.1,"This position will support both RUO and IVD products based on multiple technologies including microarrays, next-generation sequencing, CRISPR, and QPCR.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=8824931558afc779&fccid=314d6d2bfc9df32c&vjs=3
+"IT Data Analyst, Principal",,Blue Shield of California,"Oakland, CA",,3.6,"Identify and escalate data & analytics priorities requiring enterprise data and analytics governance review.
+Extensive knowledge of healthcare data and advanced…",3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=9ae6913711e47367&fccid=104dac531ec80260&vjs=3
+"Senior Consulting Data Analyst (Part-time) SAS, SQL, R",,Kaiser Permanente,"Oakland, CA",,4.1,"Tests and maintains data integrity.
+Experience with KP data systems a plus.
+Under general supervision, this position exists to assist the organization in making…",10 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=48d99d8698c092b0&fccid=48ecd526e3aa3225&vjs=3
+Business Data Analyst,,iknowvate technologies,"San Francisco, CA",Remote,,"Required Qualifications: 5+ years of data management, data governance, data quality, data analysis or related experience.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=6404f02b87a9df78&fccid=9ace5aa4e4fa6ce2&vjs=3
+"Data Analyst, Marketing",,Conviva,"San Mateo, CA",,3.7,"Hands-on expertise in data analysis, pipeline design, and/or data warehouse.
+Mine the data to respond to questions from news outlets, analysts, customers, and…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=ceb5e13a9cda1712&fccid=41174b5df6b3e5f2&vjs=3
+Data Analyst II,,Astreya,"Sunnyvale, CA",,2.8,"Perform quality assurance on data to determine potential data gaps.
+Handle data-related technical issues and support data infrastructure needs.",27 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=358b43ced1d471c6&fccid=f7fcb231ff95ee5c&vjs=3
+Statistician / Data Analyst,,University of California San Francisco,"San Francisco, CA",Remote,4.2,"Bachelor’s degree in Statistics or Biostatistics with 3 or more years of relevant experience in clinical trials work, or other related area and/or equivalent…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=026a826827f3b6b5&fccid=2a341562d64c7cdb&vjs=3
+Data Analyst,,Cisco Systems,"San Jose, CA",,4.1,"2-5 years in a data analyst role or similar role with technical critical thinking capabilities Experience With.
+Cloud DBs (Snowflake, AWS, etc.).",23 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=91f27b4b15ed31c8&fccid=dfc44f3b8c44a6db&vjs=3
+Data Analyst – People Data Solutions,,Facebook,"Menlo Park, CA",,4.2,"Experience with data management, specifically with validating and auditing data and reports from multiple systems.",20 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=fb3deb128bdd062d&fccid=1639254ea84748b5&vjs=3
+Data Analyst/Engineer,$60 - $70 an hour,creamitinc,"San Jose, CA",,,Should contribute to logical data model for data warehousing and making data available for downstream consumption.,27 days ago,2021-01-11,https://www.indeed.com/company/creamitinc/jobs/Data-Analyst-Engineer-b4bff6a0ecfbfd85?fccid=0e1f10ca70c6e6df&vjs=3
+Research Data Analyst,,University of California San Francisco,"San Francisco, CA",,4.2,The Research Data Analyst will support the San Francisco Department of Public Health (SFDPH) program team with: deduplication and merging processes in…,6 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=fed2984a283bd9ab&fccid=2a341562d64c7cdb&vjs=3
+Data Visualization Specialist,,Crunch.io,"San Francisco Bay Area, CA",Remote,,"Deep domain expertise of data science, statistical analysis, and data visualization.
+Able to design/develop industry-leading data visualizations based on an…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=0bd5cc9c5ecab98a&fccid=ba4d8eb16971da7c&vjs=3
+"Access Data Analyst - Ambulatory-Digital Health (1.0 FTE, Days)",,Lucile Packard Children's Hospital,"Palo Alto, CA",,4.0,"Provides analysis of large, complex data sets including data emanating from our Digital Health program to provide key insights to leaders and clinical users.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=3059bb90b8545fa9&fccid=fee8036fd3ff6e31&vjs=3
+Contingent Data Analyst,,First Republic Bank,"San Francisco, CA",,3.9,"5+ years of relevant experience in data analysis and/or data management.
+Reconcile source data with data at vendor to support transition to PWM Data Warehouse.",5 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=e14a84b164a45420&fccid=e228a3c78d0f7f13&vjs=3
+Contingent Data Analyst,,First Republic Bank,"San Francisco, CA",,3.9,"5+ years of relevant experience in data analysis and/or data management.
+Reconcile source data with data at vendor to support transition to PWM Data Warehouse.",5 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=e14a84b164a45420&fccid=e228a3c78d0f7f13&vjs=3
+Supply Chain and Data Analyst,,Facebook,"Fremont, CA",,4.2,"Partner with Data Engineers early to align on data foundation and data quality strategies.
+Partner with leadership, engineers, program managers and data analyst…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=cf8ebad1f6eb82f4&fccid=1639254ea84748b5&vjs=3
+Business Analyst LEGAL,"$68,602 - $131,065 a year",EmaanIT,"Oakland, CA",,,"Excellent data analysis skills, ability to analyze data using Excel including pivot tables, macros, and functions..
+Job Types: Full-time, Contract.",Just posted,2021-01-11,https://www.indeed.com/company/EmaanIT/jobs/Business-Analyst-Legal-5b47401db7448579?fccid=4fb6c5cf04d38870&vjs=3
+Data and Policy Analyst - Writer/Coordinator,,Acumen LLC,"Burlingame, CA",,3.6,"Good organizational skills and strong attention to detail.
+This position is responsible for managing and analyzing data, researching and interpreting policy,…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=e36cd1402c047bdf&fccid=d7c744248a9e6859&vjs=3
+Sr Business Data Analyst (Visualization Analyst),,Kinesso,"San Francisco, CA",,,"Analyze data to determine discrepancies, anomalies, and outliers that may have downstream impact.
+Design and build data visualizations and dashboards to meet…",21 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=b32dcfcd075b6b74&fccid=2e7fb2f475ab63dd&vjs=3
+Clinical Data Analyst,,Stanford University,"Stanford, CA",,4.2,"Collaborate with data managers to define and implement data standards and common data elements for data collection.
+Collect and analyze metric data.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=b463c48c86a333f3&fccid=1ba7f338730ce720&vjs=3
+Sr Data Analytics Analyst,,BNP Paribas,"San Ramon, CA",,3.9,"Responsible for planning and managing data analytics that provide overall data management and reporting.
+Oversees the business line's data analytics strategy.",20 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=eb51ca8876fa8045&fccid=1392500f835bba92&vjs=3
+Analyst,,Nan McKay,"San Francisco, CA",,3.6,"Background in data relationships, data mining and quantitative vs. qualitative analysis.
+Analyze data to identify significant differences, relationships and…",23 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=8126f1e6ba90fc53&fccid=d4f68f613b9e9124&vjs=3
+"Associate Business Analyst, Used Cars",,Tesla,"Fremont, CA",,3.5,"Proficiency with Tableau or other data visualization tools.
+Partner with stakeholders across the organization to ensure data integrity and accuracy, and…",23 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=63a0de94d675607a&fccid=86e9be6ce380173e&vjs=3
+"Data Analyst, Data Science & Analytics",,QuestBridge,"Palo Alto, CA",Remote,,"Periodic record consolidation and data cleaning in collaboration with other data-oriented staff.
+Experience working with multiple sources of data (education…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=7280d027a7b2faa5&fccid=0fdc5c465a8b2a6c&vjs=3
+Healthcare EDI Business Analyst,,HiPaaS Inc,"Pleasanton, CA",Temporarily remote,,"Must be able to listen to multiple stakeholders to capture and articulate their requirements and needs and be able to capture and document this in a clear,…",24 days ago,2021-01-11,https://www.indeed.com/company/HiPaaS-Inc/jobs/Healthcare-EDI-Business-Analyst-cfea560c1c6b45d4?fccid=4254da91c23d9316&vjs=3
+Compensation Analyst,,Square,"San Francisco Bay Area, CA",,3.6,"Strong analytical and Excel/Google Sheets skills are required to effectively analyze data and create meaningful, understandable models, reports, and metrics.",3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=740b2314e27142ce&fccid=09abad886b83c501&vjs=3
+Business Analyst,,STAT Revenue,"Emeryville, CA",,3.0,"Validate and analyze internally and externally generated data.
+Summarize data and present analysis with a focus on delivering results.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=94e42b35abb136b9&fccid=bc565bd13b58a4d2&vjs=3
+Data Visualization Consultant,,Slalom Consulting,"Silicon Valley, CA",,3.7,"Your goal is drive understanding and decision making from data, from key executives down to operational analysts.",Today,2021-01-11,https://www.indeed.com/rc/clk?jk=f3b02cd51db07338&fccid=a321096b9f1b3c50&vjs=3
+"Sr. Data Analyst, Commercial Service Operations",,Tesla,"Fremont, CA",,3.5,"2 - 5 years of experience in a data analytics or business data analytics related role.
+Build data pipelines to feed data analyses into production dashboards…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=9238e3dcc18fa09a&fccid=86e9be6ce380173e&vjs=3
+Research Data Support Analyst,,Stanford University,"Stanford, CA",,4.2,Familiarity with data use and organization will permit this person to assist the team with data organization and the translation of clinical terms into study…,30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=27df0280ae6b003f&fccid=1ba7f338730ce720&vjs=3
+Rates Analyst,"$71,200 - $128,300 a year",California Water Service Group (CWSG),"San Jose, CA",,,"Analyze data and reconciles discrepancies in data trends.
+Prepares and edits the GRC responses for CPUC data requests.",3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=de1757c6bfee0104&fccid=97670771d2ba620e&vjs=3
+Sr Data Analytics Analyst,,Bank of the West,"San Ramon, CA",,3.5,"Responsible for planning and managing data analytics that provide overall data management and reporting.
+Oversees the business line's data analytics strategy.",20 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=8b744550606c65b5&fccid=772dcd74d92a6864&vjs=3
+Data and Reporting Analyst,,First Place for Youth,"Oakland, CA",,3.4,Two years of experience as a data/business intelligence analyst with in-depth experience working with and using MySQL and data visualization in Power BI is…,30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=de40c69beb5e3a91&fccid=8ef894a4a2e11342&vjs=3
+BI Analyst,,Edelman Financial Engines,"Santa Clara, CA",,3.8,"3-5 years+ experience analyzing quantitative and qualitative behavioral data.
+Synthesize data into visual concepts for internal and external presentation.",Just posted,2021-01-11,https://www.indeed.com/rc/clk?jk=ed9a3954995bff13&fccid=31771ae15c8df476&vjs=3
+"Credit Analyst, Square Capital",,Square,"San Francisco, CA",,3.6,"Successful analysts quickly become experts on Square Capital and can impact the product roadmap and customer experience.
+Track and report performance metrics.",3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=349b32e41f5eba97&fccid=09abad886b83c501&vjs=3
+Data Analyst,,American Academy of Ophthalmology,"San Francisco, CA",,3.9,"Knowledge of data visualization and presentation skills to effectively communicate data insights.
+Communicate with the IRIS Registry’s data vendor to address…",6 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=889a2c37f81933d8&fccid=a903df5594f32af3&vjs=3
+Root & Rebound - AmeriCorps VISTA Data Analyst,,AmeriCorps,"San Francisco, CA",,4.3,Member Duties : Building upon and refining our data tracking and evaluations systems; Working closely with the Deputy Director of Strategic Partnerships to…,30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=5e010be00b752b0f&fccid=e87c07079f6e369f&vjs=3
+Health Data Analyst IV,,Kaiser Permanente,"Oakland, CA",,4.1,"Trains and coaches less-experienced healthcare data analysts on data retrieval techniques, programming practices, and statistical analysis and data…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=a8ed934cc36a12eb&fccid=48ecd526e3aa3225&vjs=3
+Health Data Analyst,,Bay Area Community Health,"Fremont, CA",,,"Lead efforts to ensure data integrity and validity and perform ongoing quality assurance of all data and reports.
+Designs custom reports, as needed.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=a3c8675a38438996&fccid=cacc4984d9abfade&vjs=3
+2021 Full Time Analyst – FinTech Investment Banking (San Francisco),,Financial Technology Partners,"San Francisco, CA",,,"Strong data management and research skills.
+Analyze data using mathematical models and statistical techniques.
+Modeling complex M&A and financing scenarios.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=6b13f8642c0c5133&fccid=a6cac82ccc561314&vjs=3
+Business Data Analyst II,,Silicon Valley Bank,"San Francisco, CA",,3.8,"1-3 years of experience with a focus on data and analytics.
+Experience using and developing reports, metrics and dashboards with data analytics, data…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=f80ebfa47410bdc7&fccid=40a4c5390ac10de9&vjs=3
+Business Analyst/Associate,,VentureChoice,"Palo Alto, CA",,,"The equity research associate will conduct fundamental research and analysis and manage large projects in the identification, evaluation, and dissemination of…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=246e8d1d99915703&fccid=d1c833023dcfdd58&vjs=3
+Marketing Operations Data Analyst (work remotely),,"Coherent, Inc.","Santa Clara, CA",Remote,,"3+ years of experience in data analytics roles in a Marketing capacity.
+Developing data-centric strategies to drive effective Marketing campaigns to achieve…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=0de0d1114b179dcc&fccid=1273e8bb91776b8e&vjs=3
+Business Analyst,,TCS,"Pleasanton, CA",,3.8,Lead and participate in the development of the Business Requirements Document (BRD) and Functional Specifications Document (FSD).,30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=630fb2a5c2bf6f29&fccid=c78fdfc4443d4537&vjs=3
+Business Analyst,,TCS,"Pleasanton, CA",,3.8,Lead and participate in the development of the Business Requirements Document (BRD) and Functional Specifications Document (FSD).,30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=630fb2a5c2bf6f29&fccid=c78fdfc4443d4537&vjs=3
+Data Analyst Intern,,SV Summit Inc,"Santa Clara, CA",Temporarily remote,,"Expert experience pulling data using SQL.
+Experience with a data visualization tool (e.g. Power BI / Tableau).
+Familiarity with R or Python is a plus.",6 days ago,2021-01-11,https://www.indeed.com/company/SV-Summit-Inc/jobs/Data-Analyst-Intern-b6c4b5324589a86e?fccid=7c244284049ee8aa&vjs=3
+Tableau Data Analyst,,2Dream,"Pleasanton, CA",,,"Experience with SQL and clickstream or similar data is helpful.
+5+ years of experience with customer experience data reporting and analytics.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=3eba0f4214bfee17&fccid=98c267ba6bd2017e&vjs=3
+Trust & Safety Analyst,,Discord,"San Francisco, CA",,4.3,"What you'll be doing Review and evaluate content for compliance with our Community Guidelines Analyze data, propose and implement programmatic rules to handle…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=4fe82fdf39a7c054&fccid=f2ab4689def17626&vjs=3
+Sr. Business Analyst – Veeva CRM,$65 - $90 an hour,Spotline Inc,"Palo Alto, CA",Temporarily remote,,"Experience with quintiles pulling data for them to go into the CRM.
+Extensive experience of working in the pharmaceutical, medical devices, or similar…",7 days ago,2021-01-11,https://www.indeed.com/company/Spotline-Inc/jobs/Senior-Business-Analyst-Veeva-Crm-e0bdc2c8c7db3021?fccid=82ab6f95e06ab303&vjs=3
+Data Quality Analyst,,Focal Systems,"Burlingame, CA",,4.3,"Manage a team of data annotators.
+Build tools to ensure high data quality.
+Must have studied engineering (BS or MS).
+Must be willing to work 40-60 hours a week.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=9a568b7ecbf3075a&fccid=bc360b3639999e01&vjs=3
+New College Graduate - Operations Business Analyst 2 - 123309,,Lam Research,"Livermore, CA",,3.7,"Develop reports, analyze data, and make recommendations to improve process efficiency and effectiveness.
+This is an opportunity for a new college graduate in…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=92dad632784036aa&fccid=fb90332c857e2826&vjs=3
+Data Analyst - Product and UX,,Plexuss,"Walnut Creek, CA",,4.8,"Experience in data mining, advanced data manipulation, machine learning and statistical analysis.
+Fluent in either Python or R, has experience working with…",18 days ago,2021-01-11,https://www.indeed.com/company/Plexuss.com/jobs/Data-Analyst-7f34312ee86c1dca?fccid=1deff15744f44a80&vjs=3
+Data Steward Analyst,,TCS,"Redwood City, CA",,3.8,"Define the data and identify assets within their own data domains.
+Maintain data and manage it according to data properties as required by administration.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=614e0819910ee1b2&fccid=c78fdfc4443d4537&vjs=3
+Data Analyst with Install Base,$45 - $55 an hour,Digital Dhara,"San Jose, CA",Temporarily remote,,"3-5 years of business experience ·.
+Data Analysis: 5 years (Required).
+Business & Data Analysis of Cisco Install Base.
+Install Base: 1 year (Required).",26 days ago,2021-01-11,https://www.indeed.com/company/Digital-Dhara-LLC/jobs/Data-Analyst-Install-Base-769f9dc85beb6c2e?fccid=c77b76135d73a183&vjs=3
+Video Quality Data Analyst,,Apple,"Santa Clara Valley, CA",,4.2,"5+ years experience in a data analyst or quality measurement role focusing on sampling, performance, failure rate, defect frequency and cost analysis.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=756d0d8f6c3cdfa2&fccid=c1099851e9794854&vjs=3
+Graduate Business Analyst,,Arbor Financial Systems,"San Francisco Bay Area, CA",,,The role is for a trainee business analyst to work closely with clients (hedge funds and brokers) on understanding their business requirements plus managing…,Just posted,2021-01-11,https://www.indeed.com/rc/clk?jk=55d321baa07a1c26&fccid=e1bd9b04e60a54d5&vjs=3
+"Data Analyst/Senior Data Analyst, Central Operations",,Instacart,"San Francisco, CA",,2.8,Ability to write complex and performant queries in your dialect of SQL to extract data from our data warehouse (Hive or Presto experience a plus).,30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=a427187a74a491bf&fccid=a06a9e27d7a0ff03&vjs=3
+"Consulting Data Analyst - R, SAS,Linux, LaTex",,Kaiser Permanente,"Oakland, CA",,4.1,"Tests and maintains data integrity.
+Expertise extracting and analyzing Kaiser Permanente data is a plus.
+Under close supervision, this position exists to assist…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=e6c4ed9b034188e2&fccid=48ecd526e3aa3225&vjs=3
+Data Analyst,,Kodiak Sciences Inc.,"Palo Alto, CA",,,"Build our financial and operational data infrastructure and make updates as needed to ensure timely, accurate data flows.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=ea04637dfb144478&fccid=1dcfff006898241a&vjs=3
+Commercial Strategy Territory Planning Analyst,"$75,000 - $90,000 a year",Southern Glazer's Wine & Spirits,"Union City, CA",,3.6,"1-year experience preferred in a corporate business analyst role.
+Analyze data and create reports that capture trends within the account and lead slip…",5 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=09fa8adf10b1b81d&fccid=52a28443b9a60e8d&vjs=3
+Logistics Data Analyst,,Lucid Motors,"Newark, CA",,4.2,"Update PFEP data on regular cadence.
+Provide data and support lineside & replenishment market calculations.
+We are currently seeking a Logistics Data Analyst.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=e3a8d532807fea0c&fccid=16a37eddfee06e0f&vjs=3
+Business Analyst,,Intuitive,"Sunnyvale, CA",,3.7,"Understanding and drafting logical data models, as necessary.
+This role will analyze content-related data and process issues, interview business owners and…",4 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=de84919277ba6ee9&fccid=d6b72d8e517818a0&vjs=3
+Business Analyst,,Thumbtack,"San Francisco, CA",,4.3,"Proficiency using SQL to analyze large data sets, or excellent excel skills and enthusiasm to learn and use SQL.
+Experience with R or Python.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=989123d4f34f8def&fccid=7a4ceaf20cd03b82&vjs=3
+"Data Analyst, Marketing Strategy and Operations",,Williams Sonoma,"San Francisco, CA",,3.5,"Strong data analysis skills, including troubleshooting.
+We analyze data, identify issues, define system requirements, develop automations, manage data-centric…",26 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=9e527f9bfa1684b2&fccid=cdd85c4d445cce0f&vjs=3
+BI Analyst Intern,,Unity Technologies,"San Francisco, CA",,4.0,"Support data initiatives for new products in the Demand Monetization.
+A passion for data, analysis, and problem solving.",4 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=cb784a66c207103d&fccid=880e4714f2ad94a8&vjs=3
+Business Analyst,,Colsh Consultants,"Santa Clara, CA",,,"Liaison with business team (Finance & Accounting) and IT Development team.
+Working closely with Product Manager.",3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=2ebeda0c38c0d671&fccid=f7b4fcc3fc83b5ad&vjs=3
+Apple Media Products Engineering - Data Visualization Analyst,,Apple,"Santa Clara Valley, CA",,4.2,"You should have a passion for data visualization, and turning complex data into clear information through dashboards.
+Assist in data ingestion setup.",27 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=8213a8a1deab0266&fccid=c1099851e9794854&vjs=3
+Research Data Analyst 1,,Stanford University,"Stanford, CA",,4.2,"Analyze data processes in documentation.
+Use system reports and analyses to identify potentially problematic data, make corrections, and determine root cause…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=d49a1f0554a8784e&fccid=1ba7f338730ce720&vjs=3
+Senior Data Analyst (Growth),,Springboard,"San Francisco, CA",,,"Experience building data pipelines that require combining multiple data sources.
+Have 2-3 years of experience driving business decisions building reports and…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=c64fceca75d67be7&fccid=1ad5c4bf3f3d49f3&vjs=3
+"Senior Data Analyst, Demand Planning & Automation",,Albertsons Companies,"Pleasanton, CA",,3.7,"Experience as data science formalizer is a strong plus.
+Advanced knowledge and experience with data science analytical tools, e.g. R, Python, and advanced level…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=130b62ab2d9744de&fccid=f37af6e0eae53880&vjs=3
+Data Analyst - Product,,Veem,"San Francisco, CA",,3.3,"Drive the collection of new data and the refinement of existing data sources.
++5 years of relevant analytical work experience in analyzing large, multi…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=ec3a8cea000e1f50&fccid=17e01ad6227dbe2a&vjs=3
+"Workforce Strategy Analyst, Intern",,Facebook,"Fremont, CA",,4.2,The Data Center Strategic Planning & Analytics team is seeking a technically minded workforce strategy analyst to support various people-related analyses and…,30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=c7aeac8e38009aaf&fccid=1639254ea84748b5&vjs=3
+Data Science Analyst - Technology Strategic Planning,,Workday,"Pleasanton, CA",,4.0,"3-5+ years of hands-on experience working in a data science, data engineering, software development, or BI / data analyst capacity.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=498652b7770eb0c0&fccid=9ac45d217f8342a1&vjs=3
+Public Health Data Systems Analyst (Evaluation Team),,Heluna Health,"Richmond, CA",,3.7,"Expert knowledge in data systems mapping and data management.
+Minimum of three years of data systems and/or complex data management experience, required.",Just posted,2021-01-11,https://www.indeed.com/rc/clk?jk=bf4710b47f2cc5cc&fccid=b27e6fc6d7424c31&vjs=3
+Data Analyst,,Contus,"San Francisco, CA",,,Passion for data analysis and solving problems with data Strong analytical mind-set and ability to use data and logic to create solutions to solve customer…,30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=10d0ed19d67bdd88&fccid=5fe41c4185708d63&vjs=3
+Senior Loyalty Data Analyst,,Albertsons Companies,"Pleasanton, CA",,3.7,"Investigate and respond to ad hoc data requests from the divisional and business development teams.
+Proficient in MS Office Suite, modeling, data manipulation…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=672f7143e74ea1d7&fccid=f37af6e0eae53880&vjs=3
+"Business Analyst-Senior - Cognos, Tableau, PowerBI, SQL",,Kaiser Permanente,"Oakland, CA",,4.1,"This roles essential extracts , transforms data using Cognos, Tableau, PowerBI and SQL to create the data that is accurate and consistent and create data…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=5243ee79f19f8807&fccid=48ecd526e3aa3225&vjs=3
+Entry level Business Analyst,,Cloudbigdata Technologies,"Palo Alto, CA",,,As a Business Analyst in IT Gathering Business Requirements from the client/Customer Interact with clients to understand and capture their functional and…,30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=fb4d93784b6335eb&fccid=0bcea91e2670d30b&vjs=3
+Data Analytics Specialist,,Tierra Resource Consultants,"Walnut Creek, CA",,,"Ideal candidates will have a strong statistical foundation and a technical degree, excellent verbal and written communication skills, and the ability to work in…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=785e7841ffdd619d&fccid=288304716147345b&vjs=3
+Medical Data Analyst,,Vida Health,"San Francisco, CA",,3.7,"Thus, we are looking for a data analyst, savvy with spreadsheets and SQL.
+Strong experience with end to end data processing pipelines, from data ingestion to…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=fbf4a5a4981e6b6f&fccid=fb72bf94b853fcc4&vjs=3
+Development Data Analyst,,Second Harvest Food Bank of Santa Clara and San Ma...,"San Jose, CA",,,"2-3 years of experience in a data analysis role.
+You have excellent attention to detail, an inquisitive mind, and you enjoy creating customized reports and…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=0f7757c354c9c277&fccid=a0b806ea1a608a4b&vjs=3
+CUSTOMER DATA ANALYST,,ScoreData,"Palo Alto, CA",,,"2+ years using R or Python for data analytics.
+Work on specific customer data analytics project from start to finish.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=cb1103605e2ea41f&fccid=58a7af95f0ce8123&vjs=3
+"Misinformation Data Analyst, Community Operations",,Facebook,"Menlo Park, CA",,4.2,"The Misinformation Data Analyst role will work across the following areas: forensic data analysis, building data pipelines and dashboards, monitoring and…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=672b8ff12d3f5d98&fccid=1639254ea84748b5&vjs=3
+Senior Sales Strategy and Data Analyst,,GitHub,"San Francisco, CA",Remote,4.3,"You will be at the intersection of data and business, partnering closely with other analysts and data owners as well as senior leaders within the Sales…",5 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=88925d87bef8e74d&fccid=c594c442f5397e7b&vjs=3
+Business Intelligence Analyst,,Mercer Global Advisors Inc,"San Francisco, CA",Remote,,"Minimum of 2 years of data analytics, statistics and/or reporting experience required.
+This group reports to the Vice President, Strategy and Business…",12 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=a6267dc416ef267c&fccid=f76a3ab41a26af6b&vjs=3
+"Data Analyst, Deal Desk",,New Relic,"San Francisco, CA",,3.3,"Acquiring data from primary or secondary data sources and maintaining databases.
+Technical expertise regarding data models, database design development, data…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=fb1bee2a96fe140e&fccid=ade8cd847c0482cd&vjs=3
+Product Data Analyst,,Bill.com,"Palo Alto, CA",,3.3,"Outstanding data analysis and problem-solving skills.
+Statistics, with emphasis on practical applications for product data science.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=2d907703780d0a9b&fccid=7d28c1874e2d22be&vjs=3
+Academic HR Analyst 4 (7716U) - 14070,,University of California Berkeley,"Berkeley, CA",,4.2,"Assists in the gathering, reporting, and analysis of data related to academic hiring and diversity.
+Develops statistical analyses (tracks, utilizes, and…",20 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=9e592025ccf68ab5&fccid=db52f1353185d77b&vjs=3
+"Business Analyst-San Francisco, CA-Contract",$30 an hour,Agama Solutions,"San Francisco, CA",Temporarily remote,3.8,Troubleshoot data issues by validating different data sources Analyze business performance trends to identify growth opportunities.,30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=7ef873f1a800e061&fccid=db130263a2af3230&vjs=3
+Business Intelligence Analyst,,Mercer Global Advisors Inc,"San Francisco, CA",Remote,,"Minimum of 2 years of data analytics, statistics and/or reporting experience required.
+This group reports to the Vice President, Strategy and Business…",12 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=a6267dc416ef267c&fccid=f76a3ab41a26af6b&vjs=3
+"Data Analyst, Deal Desk",,New Relic,"San Francisco, CA",,3.3,"Acquiring data from primary or secondary data sources and maintaining databases.
+Technical expertise regarding data models, database design development, data…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=fb1bee2a96fe140e&fccid=ade8cd847c0482cd&vjs=3
+Product Data Analyst,,Bill.com,"Palo Alto, CA",,3.3,"Outstanding data analysis and problem-solving skills.
+Statistics, with emphasis on practical applications for product data science.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=2d907703780d0a9b&fccid=7d28c1874e2d22be&vjs=3
+Academic HR Analyst 4 (7716U) - 14070,,University of California Berkeley,"Berkeley, CA",,4.2,"Assists in the gathering, reporting, and analysis of data related to academic hiring and diversity.
+Develops statistical analyses (tracks, utilizes, and…",20 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=9e592025ccf68ab5&fccid=db52f1353185d77b&vjs=3
+"Business Analyst-San Francisco, CA-Contract",$30 an hour,Agama Solutions,"San Francisco, CA",Temporarily remote,3.8,Troubleshoot data issues by validating different data sources Analyze business performance trends to identify growth opportunities.,30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=7ef873f1a800e061&fccid=db130263a2af3230&vjs=3
+"HealthCare Data Consultant - SAS, SQL",,Kaiser Permanente,"Oakland, CA",,4.1,"Under general supervision, this position exists to assist the organization in making strategic data-related decisions by analyzing, manipulating, tracking,…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=41a3c299812d7430&fccid=48ecd526e3aa3225&vjs=3
+Data Analytics Manager,$60 - $75 an hour,Volto Consulting,"Milpitas, CA",Remote,,"Ability to analyze large / big data and use historical data and find patterns, uncover correlations between various pieces of data, create and train model for…",24 days ago,2021-01-11,https://www.indeed.com/company/Volto-Consulting/jobs/Data-Analytic-Manager-7720572453f16661?fccid=242f54a0bd5d5b7f&vjs=3
+Clinical Data Analyst,,Freenome,"South San Francisco, CA",,,"Two years of direct experience processing data, analyzing data, and integrating data from multiple sources in clinical research or healthcare IT environment.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=566fd1b3736dac1c&fccid=6116b77c1a5422c4&vjs=3
+"Data Analyst, Alexa Automotive, Bilingual Hindi/ English",,Amazon.com Services LLC,"Santa Clara, CA",,3.6,"Handle unique data analysis requests from a range of data customers, including quantitative and qualitative analyses to elevate customer experience with speech…",27 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=6f6175d89fd00fe0&fccid=fe2d21eef233e94a&vjs=3
+IS Business Analyst,$44.61 - $56.11 an hour,City & County of San Francisco,"San Francisco, CA",,4.0,Performs data cleansing and conversion activities in preparation for migration to a new SAWS and related ancillary systems.,13 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=0d07d5c3d04ae0c5&fccid=a411072d5a46f13f&vjs=3
+Lead Data Analyst,,Quantcast,"San Francisco, CA",,3.5,"Ability to extract action items from sophisticated data set Bash or shell scripting.
+Outstanding written and verbal communication skills and the ability to…",5 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=b7ac7a3016dec173&fccid=ae804d7135a7b480&vjs=3
+"Business Strategy & Planning (BSP) Analyst, Intern",,Facebook,"Fremont, CA",,4.2,"Analyze data to identify trends that drive data-based decision making for the business.
+Create quantitative models reporting schedule and cost trends across the…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=b23d9af113074d68&fccid=1639254ea84748b5&vjs=3
+Functional Data Analyst,,Publicis Sapient,"San Francisco, CA",,3.9,"Hands on Talend data management experience especially in profiling data.
+Researching and documenting existing legacy application process and data flows,…",24 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=555bcd359f99cea2&fccid=1b0043cf80779505&vjs=3
+"Strategic Planning and Operations Analyst, Payment Partnerships",,Facebook,"Menlo Park, CA",,4.2,Experience using data access tools and building visualizations using large datasets and multiple data sources.,Just posted,2021-01-11,https://www.indeed.com/rc/clk?jk=b6fdd3d095ce750f&fccid=1639254ea84748b5&vjs=3
+"Data Analyst, Finance",,Fundbox,"San Francisco, CA",,3.2,"5+ years in data analytics, data science, consulting, banking, or other relevant experience.
+Experience with Tableau or other data visualization tools.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=4b17ddbfc8240a42&fccid=bd3717e9a69d0bd3&vjs=3
+Senior Marketing Data Analyst,,Verkada,"San Mateo, CA",,,"Analytical mindset, capable of understanding advanced abstract relationships and concrete systems/data.
+Ensure leadership is equipped with accurate and timely…",4 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=5802974077a26494&fccid=17b2ec97e4ece7cf&vjs=3
+"Data Analyst, Business Models & Customer Retention",,Autodesk,"San Francisco, CA",,4.1,"Conduct data analysis, data profiling, and data extraction from disparate sources.
+Strong data analytics skills and ability to identify data questions…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=3b6a0549f5a196d6&fccid=7136762d065a5ad7&vjs=3
+Senior Data Analyst,,Quantcast,"San Francisco, CA",,3.5,"2+ years of working with Tableau or similar data visualization tools.
+This involves understanding our Sales Ops, Finance & Client Service metrics & data tables…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=1b9eb430c06fda39&fccid=ae804d7135a7b480&vjs=3
+Marketing Data Analyst,,Zendesk,"San Francisco, CA",,4.1,"Experience with SQL and data warehouses (e.g. BigQuery, MySQL).
+A knack for identifying and investigating anomalies in data and operations.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=c76ddcd33d66e117&fccid=41e8f9abd9840a7a&vjs=3
+Business Analyst,,MIRI INFOTECH,"Fremont, CA",,,"Translate requirements into documentation deliverables such as user stories, functional specifications, workflow/process diagrams, and data flow/data model…",28 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=3c44675d9cfcd910&fccid=a5ee2999bebbfe9b&vjs=3
+"Operations Data Analyst, Career",,PG&E Corporation,"San Francisco, CA",,3.8,"Experience collecting and reviewing data (e.g., searching for anomalies/data gaps/inconsistencies), utilizing repeatable processes and adding controls when…",9 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=afcdfdeac31f4246&fccid=0e8f04b45c1591f5&vjs=3
+Senior Business Analyst (0657U) - 10632,,University of California Berkeley,"Berkeley, CA",,4.2,"Demonstrated experience in operations analysis, data and data structure analysis, and reporting.
+High level strategic thinking skills and critical attention to…",3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=98a7809f042e1b53&fccid=db52f1353185d77b&vjs=3
+Data Analyst - Customer Feedback,,Ursus,"Menlo Park, CA",,4.9,"Consolidate customer feedback data with other transactional, operational, and behavioral sources of data to paint a clear picture of experience drivers.",30+ days ago,2021-01-11,https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CT8vBT9H5mqECx2dfLV_FONLPDKpIRssxVwtj05Tmm4qxTAI2czriaY4YcQXrGzkHp5sK0eIMMi_Hgf9kUx6op8JVy9pj5c53bOMW1QFPU_fhXema3FIFpipUGbsLKEaIHTk_b5dkicvEQsU4zHMRygM62qgD0MyqcZX4ZcJJ8Uh0F1nPYDxb1-MqHid3COy_5eCELs8xnUtUjDkoPAUNWZggram63JA2uECBb15x37v2JJN9CblbwFvDZnn11Azo9yBVQXbE8axANU6FNi6haSdVI9m4XmylcomhQmuJZyqaoV-0H05Nw-euVDx5tEKfnX1qjTB9i0KQ9tj4KPs6NkJXBnDjwcqVzBzfEN_qG6LYAE2u8P3FR6F0hyUKOe0z-aVSxmYZmo6vojzsLJh36sAuWCyJ2jeJadlvCOqvQAKdBUeQQfpfBH5AcvyX2ur4FkGJbraAFmfpVuxY-R3_WG189wxGET54CbbWSk64nNpFkkwxO3ElbR63iTG3pQs6Zk5s-7BaNdr3luv77Ec0ftzjoc34R4lVdf3iUDJgg8iQVEoq1pqpygXLGlfoF2dXRRIdwzlxLWbFaVC1u0pELddxkswhRmocFc9VuqmcQePdQv-sGTTJjDntZBPcFHMf7hXp2sfLRIz7AldaQXaKMdqyVtSKxP7c8FcC1hTTyGib-E3-lddMDYXmBIG8QXlNWnEZVCI1bZI0usQYg_els9qfN6MhMYMx-DZydw5alK5RbQ57A-ilzPkTNX6KgpVGG1EnoBouuTEmycVARE49LGcYm3Pw_xeWz_MoOQrMhA5P2NQ1CtAXiX6QJE5BUwMgWlqcdmg3tI03or5JJq4ghY_Ftft7FkZCNQxvMoUl1UASzDKpWq-5Sl0RM1c4MTiRAMdCSFTAYTJQ-Mhe5QneovLjfGIHY4oJ3U-o9aYHkdbrXhbKBGyIAJ_U07mLZzi6_OdMXO2TW2g==&p=7&fvj=0&vjs=3
+Business Analyst,,Sony Interactive Entertainment PlayStation,"San Mateo, CA",,3.7,"Using available data to see opportunities and backup recommendations.
+5 years or more commercial business analysis experience:",10 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=bcda494344b7be2a&fccid=750bb2e27e97e3c1&vjs=3
+"Data Analyst - Health, Consultant",,Blue Shield of California,"Oakland, CA",,3.6,"Functions as facilitator and/or mentor for data reporting projects, teams and task forces.
+Coordinates interaction between data analysis teams and support…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=086dd3f033c67236&fccid=104dac531ec80260&vjs=3
+"Data Analytics Manager, Product",,Poshmark,"Redwood City, CA",,4.6,"Strong understanding of data warehouse and data integration architectures and tools.
+Hands on experience working with Big data, ideally clickstream data, in Big…",5 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=181d7bdf3721e571&fccid=0f4f2d112db7d324&vjs=3
+Junior Business Analyst,,Southern Glazer’s Wine and Spirits,"Union City, CA",,3.6,"2 years work experience in a data intensive position.
+Drive performance-based culture through development of analytics, tools, and technology leading to…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=f436b6611fb4826e&fccid=52a28443b9a60e8d&vjs=3
+Senior Data Analyst/Engineer,,Cruise,"San Francisco, CA",,2.8,"Experience with building and maintaining data pipelines, ensuring data integrity.
+Build data visualizations using Looker and Jupyter notebooks as a method of…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=d321dcb869780685&fccid=3322e3b44a5a0777&vjs=3
+Wind Tunnel Test Data Analyst/Engineer - NFAC - NLR-01100-3,,National Aerospace Solutions,"Moffett Field, CA",,3.5,"Validate test data against test objectives and prepare data analysis reports.
+Configure the data system and develop software programs to meet test data…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=47a7bbd48becc7fe&fccid=50dfed8ec492b0d6&vjs=3
+Senior Reporting & Data Analyst,,OODA Health,"San Francisco, CA",,,"Experience with NLP/Text Analytics and generally leveraging unstructured data sets.
+Strong communication skills, including the ability to tell compelling…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=beca6d56137e7017&fccid=f3ea30e56b1b32be&vjs=3
+Growth Marketing Data Analyst,,Kabam,"San Francisco, CA",,4.1,"Finding answers to business questions via hands-on exploration of data sets using SQL, dashboards, statistical analysis, and data visualizations.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=3a2bdd4205685dcf&fccid=fde47f06a6b44d5e&vjs=3
+Clinical Systems Analyst - Data Integration & Software Development,,Stanford Health Care,"Palo Alto, CA",,4.0,"Experience: Five (5) years of progressively responsible and directly related work experience.
+3 years of core Internet technologies -TCP/IP, HTTP, HTML, AJAX,…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=48441d9f894a47a1&fccid=1e9dc60a2424f016&vjs=3
+Cyber Risk Analyst,,Expanse,"San Francisco, CA",Remote,,"Experience with data analysis, statistics, and data visualization.
+Drive data analysis by rapidly prototyping new tools.
+2-4 years of working experience.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=d3d1749c912adff5&fccid=d213a8de4f971403&vjs=3
+Business Analyst,,Nevro Corp.,"Redwood City, CA",,,"3 years Business Analyst experience in Salesforce.com required.
+Conducts discovery with business and IT to document requirements, specifications, business…",Just posted,2021-01-11,https://www.indeed.com/rc/clk?jk=7dbb2b5701b0c293&fccid=1d1642c5d57e81dd&vjs=3
+"Senior Data Analyst, Sales Operations",,Github,"San Francisco, CA",Remote,4.3,"Extensive experience in building high-quality data models and C-level presentations.
+We're looking for a highly motivated Senior Data Analyst who will work…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=089db5adce65f3ba&fccid=c594c442f5397e7b&vjs=3
+Sr. Business Analyst - Data,,McAfee,"San Jose, CA",,3.7,"Identify data quality key issues in our data and work with engineering and product teams to improve data quality.
+You are an expert knowledge of SQL required.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=d065b8052bb24106&fccid=800f11c47014effe&vjs=3
+"Senior Data Analyst, Accounting",,ServiceNow,"Santa Clara, CA",,3.6,"2+ years of experience in Accounting and financial data analysis.
+Experience with databases & data modelling – SAP Hana.",2 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=49a8751a124174b5&fccid=7442885bc0fa7c14&vjs=3
+People Analytics - (Senior Data Analyst),,Blue Shield of California,"Oakland, CA",,3.6,"Understanding of scalable data transformation techniques using SQL, Spark or equivalent.
+Experience in research survey / assessment design metrics design,…",24 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=e09f4f515ba06253&fccid=104dac531ec80260&vjs=3
+Business Analyst (Intern) - United States,,Cisco Systems,"San Jose, CA",,4.1,"You will analyze internal processes, data, and problems and identify benefits from enabling new capabilities.
+You have excellent analytical, problem-solving and…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=c19602fa71f2ab12&fccid=dfc44f3b8c44a6db&vjs=3
+"Energy Analyst, Energy Products Performance - Service Engineering",,Tesla,"Fremont, CA",,3.5,"Experience working with and analyzing large data sets.
+Demonstrable data analysis and interpretation skills and/or mathematical process.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=49617618a3b35732&fccid=86e9be6ce380173e&vjs=3
+Data Reporting and Insights Specialist,,TechSoup,"San Francisco, CA",,3.4,"Extract data for summarization and presentation and clean, standardize, and transform raw data, as needed.
+Work with data analyst tools and languages, including…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=32a62c4964b743b1&fccid=ce58d1df66d747b4&vjs=3
+120 FINANCE - Senior Data Analyst Healthcare,"$77,710 - $116,570 a year",Alameda Alliance,"Alameda, CA",,2.5,"Conduct financial and operational analyses involving a wide range of activities including but not limited to data extraction, the generation of reports and…",26 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=c16102d6191b07f9&fccid=540d1028cf8a5b40&vjs=3
+"Jr. Pricing and Data Analyst (San Jose, CA)",,Travix International,"San Jose, CA",,4.4,"Experience in an analytical role and/or data analysis is a plus.
+Our group aims to help customers make informed and cost-effective bookings for travel products…",21 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=cdae8b421e27c3ea&fccid=a72e9e49455acc79&vjs=3
+Senior Data Analyst,,Robinhood,"Menlo Park, CA",,3.6,"Experience communicating data driven insights.
+This senior data analyst role at Robinhood will work with partners in product, marketing, engineering, finance,…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=694c4c6fdb300b2b&fccid=fba1f219793d6b80&vjs=3
+Junior Marketing analyst,,DUOPEAK,"Menlo Park, CA",,,"Highly analytical, data-driven individuals.
+Leverage DuoPeak data reporting systems to build performance reports.
+1 year+ Google Ads experience.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=1335da4b46d80a46&fccid=302be7119a491f60&vjs=3
+Business Intelligence Analyst,,Unity Technologies,"San Francisco, CA",,4.0,"This role will manage a team of Business Operations analysts to identify and fix business problems/opportunities, define and implement business processes as we…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=7f728a5393d5d284&fccid=880e4714f2ad94a8&vjs=3
+Business Analyst,,Periscope technologies inc,"Pleasanton, CA",,,"Bachelor’s degree + 5 years experience,.
+Collaborate closely with developers (Onshore/Offshore model) to implement the requirements, provide necessary guidance…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=021a62ef9bc7310c&fccid=7155e8c91f7373ad&vjs=3
+Data Analyst,,Power Integrations,"San Jose, CA",,4.3,"2-5 years of experience in production/engineering data analysis is desirable.
+Knowledge of database structures, big data analysis, and a sound fundamental…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=28a8b2988d3e0ffe&fccid=adb435e920a31078&vjs=3
+Technical Data Analyst,,"Beezwax Datatools, Inc.","Cupertino, CA",,4.0,". We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=1c50b86218fc3c0a&fccid=66511d79f615183c&vjs=3
+Business Systems Analyst,,San Francisco Health Plan,"San Francisco, CA",,3.6,"Perform data analysis - you love digging into data, figuring things out, solving sometimes complex issues and driving towards creative solutions.",4 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=22c8a52144b7c9e7&fccid=b0ea20cdae762869&vjs=3
+"Sr. Business Analyst, Finance Data",,Tesla,"Fremont, CA",,3.5,Business intelligence - increase data visibility and access for business teams through the creation and curation of data platforms and tools including Tesla's…,13 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=58e7a5d4d4b6c193&fccid=86e9be6ce380173e&vjs=3
+Senior Data Analyst,,Cisco Meraki,"San Francisco, CA",,3.9,"Partner with data infrastructure team to provide mentorship on Cisco data integration efforts.
+Provide thought leadership and direction for analysts across the…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=29b2d097b71b1ee2&fccid=225e8490f1c5921b&vjs=3
+"Data Analyst, Product Support Operations",,Facebook,"Sunnyvale, CA",,4.2,"Project management skills, road mapping data pipelines, and providing data/metrics architecture best practices.
+5+ years experience in quantitative analysis.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=d2205bfec3dd4cd1&fccid=1639254ea84748b5&vjs=3
+Director of Business Intelligence Solutions,,Albertsons Companies,"Pleasanton, CA",,3.7,"Experience with data wrangling, data cleaning and prep, dimensionality reduction.
+Experience querying data from relational databases using SQL.",24 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=bdcd2d07f644261b&fccid=f37af6e0eae53880&vjs=3
+Data Analyst II,"$105,000 - $115,000 a year",Fivetran,"Oakland, CA",,,"Mid-level experience as a data analyst.
+Improve Fivetran documentation, blog, and customer support material by voicing the data analyst perspective.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=d96aeb681916d213&fccid=09c9d04ca9a8a97a&vjs=3
+Business Data Analyst,,Scaleapi,"San Francisco, CA",,,"Excellent communication and data visualization skills, and the ability to convey complex ideas succinctly.
+Our first product is a suite of APIs that allow AI…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=deadaaf28ece74ee&fccid=55ebd28e88790c63&vjs=3
+Senior Data Analyst,,QuinStreet,"Foster City, CA",Temporarily remote,2.7,"Reporting – summarizing data and automating reports around campaign performance, which will be utilized frequently in client interactions.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=e89c01884b26efd1&fccid=26a49cbc28830f90&vjs=3
+Business Analyst,,eSellerHub,"Fremont, CA",,,Skills / QualificationsExcellent Analytical and Logical abilityOutstanding verbal and written communication skillsFamiliarity with Analytics / Process analysis…,30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=8fa2d31aec9a89b4&fccid=521b3f56564da2c2&vjs=3
+eCommerce (Magento) Business Analyst,,Virtusa,"Fremont, CA",,3.7,Extensive experience working as a technical BA in eCommerce projects with indepth understanding of the eCommerce business process flow.,6 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=90e863124d64e224&fccid=146443e77d8c0778&vjs=3
+Data Marketing Analyst Intern,,SV Summit Inc,"Santa Clara, CA",Remote,,"Partners with analysts, media, and research teams to contribute social data to larger reporting and analytics initiatives when necessary.",14 days ago,2021-01-11,https://www.indeed.com/company/SV-Summit-Inc/jobs/Data-Marketing-Analyst-Intern-8668f06ae2099069?fccid=7c244284049ee8aa&vjs=3
+System Data Analyst,,Wing,"Palo Alto, CA",,,"Work with the data infrastructure team to enable integration of different systems and data sources.
+5+ years of experience in data analytics.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=ccdc438ea7bcb228&fccid=0320bbff280ba20c&vjs=3
+Data Analyst – Spotfire,,BrainyPro,"Silicon Valley, CA",,,"Solid foundation in data management and data governance.
+Familiarity with data validation and data model process from internal and external sources.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=87fb2766782472cf&fccid=c42e599c91f27639&vjs=3
+Business Information Analyst Senior,,Anthem,"Walnut Creek, CA",Remote,3.7,"3-5 years data analysis or related experience; or any combination of education and experience, which would provide an equivalent background.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=462d1dcc01c19165&fccid=2a4da7fa99f4b9ae&vjs=3
+Data Analyst for Product/Merchandising,,Levi Strauss & Co.,"San Francisco, CA",,3.9,"Minimum 3 years experience with data analysis and management, especially in a merchant or data coordinator role.
+Cleanse and standardize existing data.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=3918714f4141fa68&fccid=dc023faa36b88bf2&vjs=3
+Business Analysis - Tax,$55 - $65 an hour,360 Technology,"San Jose, CA",,,Must have 5-8 years of experience on capturing the requirement from business stakeholders and convert that to BRD document.,7 days ago,2021-01-11,https://www.indeed.com/company/360-Technology/jobs/Business-Analysis-fdf65922c9b8a718?fccid=c8b45a0f37ac9be4&vjs=3
+Data Systems Analyst,,University of California San Francisco,"San Francisco, CA",,4.2,"Bachelor's degree in information science, data analytics, or computer science and/or 3-5 years of experience in a related area.
+Job Code and Payroll Title.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=8dded1fb8c1fd3ed&fccid=2a341562d64c7cdb&vjs=3
+"Associate Data Scientist, Data Modeling",,Williams Sonoma,"San Francisco, CA",,3.5,"1+ years of professional experience in data modeling, analytics, market research, or other data-centric role.
+Manage data integrity, preparation, cleansing, and…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=9af7a390f9bdc59a&fccid=cdd85c4d445cce0f&vjs=3
+"DURATIONAL: (Part-time) Data Consultant- Research, Epi, Bio-stat, SAS, SQL, R",,Kaiser Permanente,"Oakland, CA",,4.1,"Under general supervision, this position exists to assist the organization in making strategic data-related decisions by analyzing, manipulating, tracking,…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=d3cf409aa832ba19&fccid=48ecd526e3aa3225&vjs=3
+"Business Analyst, Sales",,Lucid Motors,"Newark, CA",,4.2,"Be uncompromising in pursuing data integrity and building data generation processes that will scale.
+Proficiency with Tableau and data visualization.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=63488d819a802779&fccid=16a37eddfee06e0f&vjs=3
+Data Analyst,,TechNet Inc.,"San Jose, CA",,,"5+ year of QA expertise in ensuring quality of data in Data Warehouse loaded from various data sources.
+The ideal candidate will have worked in depth in data…",23 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=ae1a8a6119c0f2d9&fccid=a763917df8576927&vjs=3
+"Consulting Data Analyst - SAS, R, REDCap, Epidemiology, Biostatistics",,Kaiser Permanente,"Oakland, CA",,4.1,"Tests and maintains data integrity.
+Under close supervision, this position exists to assist the organization in making strategic data-related decisions by…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=cd1a1a32904a113c&fccid=48ecd526e3aa3225&vjs=3
+Data and Policy Analyst - Statistical Programmer,,Acumen LLC,"Burlingame, CA",,3.6,"Good organizational skills and strong attention to detail.
+This position is responsible for managing and analyzing data, researching and interpreting policy,…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=e6557a1e5d1de625&fccid=d7c744248a9e6859&vjs=3
+Serialization Business Analyst,,Hash Technologies,"Foster City, CA",,,"Candidate MUST have strong working experience in Serialization related projects.
+Having worked in an SAP S4 environment with ATTP experience will be a big win…",3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=d9ad5255a2571b38&fccid=7c5db915f3edb312&vjs=3
+Senior Data Analyst,,Dictionary.com,"Oakland, CA",,,"The Senior Data Analyst uses advanced data extraction, data manipulation and analytics skills to generate insights from this complex and large volume of data.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=b5b2e332e33c4f35&fccid=b42e3c1dbf2f722b&vjs=3
+Logistics Operations Data Analyst,,Wish,"San Francisco, CA",,3.9,"Three (3) years of experience in the job offered, OR three (3) years of progressively responsible experience in the field of supply chain or logistics.",27 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=8a5b1a83b7a23bfe&fccid=617690ce838507f3&vjs=3
+"DURATIONAL: (Part-time) Data Consultant- Research, Epi, Bio-stat, SAS, SQL, R",,Kaiser Permanente,"Oakland, CA",,4.1,"Under general supervision, this position exists to assist the organization in making strategic data-related decisions by analyzing, manipulating, tracking,…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=d3cf409aa832ba19&fccid=48ecd526e3aa3225&vjs=3
+"Business Analyst, Sales",,Lucid Motors,"Newark, CA",,4.2,"Be uncompromising in pursuing data integrity and building data generation processes that will scale.
+Proficiency with Tableau and data visualization.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=63488d819a802779&fccid=16a37eddfee06e0f&vjs=3
+Data Analyst,,TechNet Inc.,"San Jose, CA",,,"5+ year of QA expertise in ensuring quality of data in Data Warehouse loaded from various data sources.
+The ideal candidate will have worked in depth in data…",23 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=ae1a8a6119c0f2d9&fccid=a763917df8576927&vjs=3
+"Consulting Data Analyst - SAS, R, REDCap, Epidemiology, Biostatistics",,Kaiser Permanente,"Oakland, CA",,4.1,"Tests and maintains data integrity.
+Under close supervision, this position exists to assist the organization in making strategic data-related decisions by…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=cd1a1a32904a113c&fccid=48ecd526e3aa3225&vjs=3
+Data and Policy Analyst - Statistical Programmer,,Acumen LLC,"Burlingame, CA",,3.6,"Good organizational skills and strong attention to detail.
+This position is responsible for managing and analyzing data, researching and interpreting policy,…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=e6557a1e5d1de625&fccid=d7c744248a9e6859&vjs=3
+Serialization Business Analyst,,Hash Technologies,"Foster City, CA",,,"Candidate MUST have strong working experience in Serialization related projects.
+Having worked in an SAP S4 environment with ATTP experience will be a big win…",3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=d9ad5255a2571b38&fccid=7c5db915f3edb312&vjs=3
+Senior Data Analyst,,Dictionary.com,"Oakland, CA",,,"The Senior Data Analyst uses advanced data extraction, data manipulation and analytics skills to generate insights from this complex and large volume of data.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=b5b2e332e33c4f35&fccid=b42e3c1dbf2f722b&vjs=3
+Logistics Operations Data Analyst,,Wish,"San Francisco, CA",,3.9,"Three (3) years of experience in the job offered, OR three (3) years of progressively responsible experience in the field of supply chain or logistics.",27 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=8a5b1a83b7a23bfe&fccid=617690ce838507f3&vjs=3
+"Senior Data Analyst, Product",,Kiva.org,"San Francisco, CA",,4.9,"5+ years experience in data analytics, business analytics, data science, economics, statistics or related field.
+Experience mentoring others strongly preferred.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=c52e2c982be51379&fccid=b98ea3f9f201f263&vjs=3
+Staff Data Analyst/Engineer,,Cruise,"San Francisco, CA",,2.8,As a Staff Data Analyst/ Engineer you'll be responsible for working with petabytes of autonomous driving data leveraging the most advanced cloud technologies…,30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=7d1e5afaa0a23f5f&fccid=3322e3b44a5a0777&vjs=3
+Business Intelligence Analyst,,ironSource,"San Francisco, CA",,,"Interpret data, analyze results using statistical techniques and provide ongoing reports.
+A minimum of 2-3 years of professional working experience.",24 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=88342eb96c04e3b5&fccid=1db73ef8e1dcdbe7&vjs=3
+I&D Business Intelligence Analyst,,Apple,"Santa Clara Valley, CA",,4.2,"Stays up-to-date on new technologies and methods across data science and data visualizations.
+Minimum 4 years of experience in analytics and data.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=b6d592bbad866b90&fccid=c1099851e9794854&vjs=3
+"Senior IT Business Analyst, Enterprise Systems",,RefleXion Medical,"Hayward, CA",,3.2,"Three (3) weeks PTO to start.
+They will be knowledgeable of industry best practices and have a strong background in data management, analysis, and delivery.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=28d4f2cad3a7dfa7&fccid=4ef84be60c005346&vjs=3
+BI Analyst,,Dolls Kill,"San Francisco, CA",,2.5,"Write queries to extract data from various databases/data warehouses for analysis, set up ETLs to ready data for efficient access.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=f0c7e760232dfced&fccid=da7cb7068b5cdc2d&vjs=3
+IT Application Data Analyst Internship,,RingCentral,"Belmont, CA",,2.8,"Understand Salesforce Data Model, data cleansing strategies & approaches and create data mapping.
+Work closely with business and analyze the data from various…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=7658f2a8324abf70&fccid=1cbb498b08d4e46a&vjs=3
+Intern - Procurement Analyst,,First Republic Bank,"San Francisco, CA",,3.9,"Financial and quantitative data skills for analysis and building business cases measuring cost projections.
+Must be able to review and analyze data reports and…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=f895b2ba183adcfd&fccid=e228a3c78d0f7f13&vjs=3
+PLM Business Analyst,,NexInfo Solutions,"San Carlos, CA",Temporarily remote,,"Contract W2, Contract Independent, Contract Corp-To-Corp, 12 Months.
+We are looking for Business Analyst who have supply chain experience.",6 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=d989bfa51c7f5527&fccid=4e80b0b144a736d8&vjs=3
+Business System Analyst 2 (7583U) - 13981,,University of California Berkeley,"Berkeley, CA",,4.2,"Gathers and analyzes data to prepare business process and procedural documentation.
+The mission of the School is executed by approximately 20 ladder-rank…",21 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=2b624f808730b0e9&fccid=db52f1353185d77b&vjs=3
+Lead Data Analyst / Bioinformatic Scientist,,Apton Biosystems,"Pleasanton, CA",,,"Expertise in NGS data analysis and algorithm development highly desirable.
+Expert knowledge and extensive experience with data analysis, visualization and…",4 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=eec3c5debeac06e1&fccid=047730e462d76dec&vjs=3
+Cyber security Business Analyst,$55 - $60 an hour,3I Associates,"San Ramon, CA",Temporarily remote,,"5 years of direct business analysis experience.
+Ability to lead medium to high complexity level requirements efforts and coaching or mentor less experienced…",Today,2021-01-11,https://www.indeed.com/company/3I-Associates/jobs/Cyber-Security-Business-Analyst-1d35b6862b1b0f70?fccid=256a4912ba39b064&vjs=3
+Application Development:Data Analyst I,,iknowvate technologies,"San Jose, CA",,,"3-5 years of experience in Reporting & Analytics.
+Must be comfortable with querying and analyzing large amount of data on Hadoop HDFS using Hive and Spark.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=22f6795308ce4372&fccid=9ace5aa4e4fa6ce2&vjs=3
+"Senior Data Analyst, Data Sharing",,Disney Streaming Services,"San Francisco, CA",,3.4,"Partner across data, product and technical teams to audit or develop data quality queries for source and target data sets.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=a4a3a679e40d7131&fccid=4b5d257051285786&vjs=3
+Sr. Business Analyst (Pharma Domain),$80 - $98 an hour,Spotline Inc,"Palo Alto, CA",Temporarily remote,,"9+ or more years of experience as a businessanalyst.*.
+Strong experience with Pharma Domain.*.
+Experience working closely with Finance stakeholders…",21 days ago,2021-01-11,https://www.indeed.com/company/Spotline-Inc/jobs/Senior-Business-Analyst-95b60f445d94a118?fccid=82ab6f95e06ab303&vjs=3
+HR Data and Systems Analyst,,Caliva,"San Jose, CA",,2.1,"Ensure accuracy of data through routine data audits and validation.
+Expert knowledge of Excel, data analytics and data visualization required.",5 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=5fedf9b26ff41807&fccid=4622255a7ecd5a5a&vjs=3
+Epidemiologist - Data Analyst,,Heluna Health,"Richmond, CA",,3.7,"Ability to perform data entry, data cleaning, and data quality assessment with attention to detail.
+Clean data and maintain data quality and completeness.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=8b817adfb807a91e&fccid=b27e6fc6d7424c31&vjs=3
+Senior Technical Data Analyst,,CrowdRise,"Redwood City, CA",Temporarily remote,,"Learn and assist data engineers with data transformations and ETL projects.
+5+ years experience in data analysis and science using web, marketing, product and…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=162770e2191eb377&fccid=8667d7fc933b825d&vjs=3
+"Senior Business Analyst, Data Science",,Roku,"San Jose, CA",,3.2,"Experience creating data visualizations in Tableau, Looker, or other modern visualization tools.
+Experience working within and structuring very large data…",27 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=49b550344d986667&fccid=f7f27aafffbc37a6&vjs=3
+Digital Analyst,,Tharka Inc,"San Ramon, CA",,,"Primary data sources will include web and email analytics for the company’s corporate websites, social media listening data, advertising performance data and…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=d4b6b01bd6d1e5df&fccid=3448b0d2b497fbb2&vjs=3
+"Sr, Data Analyst",,"NetStrive Consulting, LLC","San Mateo, CA",,,"Write scripts to Perform data management and data quality checks on the huge volumes historical data received, streamline and align with current data received…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=7cf3e1203d8219de&fccid=937f84b17272f151&vjs=3
+Management & Program Analyst,"$112,400 - $146,120 a year",US Department of Veterans Affairs,"Palo Alto, CA",Remote,3.8,"Special Employment Consideration: VA encourages persons with disabilities to apply, including those eligible for hiring under 5 CFR 213.3102(u), Schedule A,…",3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=7729013fec5bd218&fccid=02c3642d72b15da7&vjs=3
+Management & Program Analyst,"$112,400 - $146,120 a year",US Department of Veterans Affairs,"Palo Alto, CA",Remote,3.8,"Special Employment Consideration: VA encourages persons with disabilities to apply, including those eligible for hiring under 5 CFR 213.3102(u), Schedule A,…",3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=7729013fec5bd218&fccid=02c3642d72b15da7&vjs=3
+Operation Project Analyst-Data Center,,Iron Systems,"Fremont, CA",,3.5,"Strong understanding in project management and data analysis.
+5-10 Years IT Infrastructure technologies Experience.
+Exceptional research and reporting skills.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=e1ba0331469761c7&fccid=39e7cc3fd9e2cd7d&vjs=3
+"Analyst, Data Quality - Temporary 3 Month Position",,RPX,"San Francisco, CA",,,"Familiarity with database systems, data intake and integration.
+The Analyst, Data Quality will support data quality and business intelligence initiatives at RPX…",25 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=181cc5b8cd10d4e8&fccid=3bd140ae8fb16e1c&vjs=3
+Business Analyst,,DS Soft Tech,"Fremont, CA",,,"With limited supervision, will be responsible for the following: Understanding of Software development and Testing lifecycle; Assuring Quality of Software…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=08fac44d9d307cd1&fccid=aeb4f8c2240d85c2&vjs=3
+NFIP Business Analyst-Oakland,,Serco North America,"Oakland, CA",,3.5,"5 years of residential and/or commercial claims adjusting experience and a minimum of a Bachelor’s degree.
+Create NFIP reports, gathering data, providing NFIP…",3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=0701c06bae4ba502&fccid=8177021cdb259d9d&vjs=3
+Senior Health Data Analyst,,Nuna,"San Francisco, CA",,,"In this role you'll work as part of a cross-functional team of engineers, healthcare data experts, product managers, and customer liaisons to expand, adapt and…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=51065df4eeba248f&fccid=3cb3ba377c877a98&vjs=3
+"Sr. Data Analyst, Adtech",,Uber,"San Francisco, CA",,3.7,"4+ years of work experience in data analyst, technical solutions, engineering or other technical positions.
+Manage customer requests, which includes verifying…",24 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=f96fe3bbf5aa0984&fccid=f766f8bfbc3effb7&vjs=3
+Supply Chain Analyst,,Teladoc Health,"Mountain View, CA",,3.0,"We're looking for someone with 2-5 years of experience who has demonstrated their ability to identify meaningful business insights using their creativity,…",24 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=f189bb3f03a836b1&fccid=88f5d9a70576ec2a&vjs=3
+Expert Business Process Analyst,,PG&E Corporation,"San Ramon, CA",,3.8,"Broad expertise in business process, root cause process improvement and data analysis concepts, methods and techniques.
+MBA or equivalent graduate degree.",2 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=6e000b3dc916f537&fccid=0e8f04b45c1591f5&vjs=3
+Data Analyst - Customer Feedback,,Ursus,"Menlo Park, CA",,4.9,"Consolidate customer feedback data with other transactional, operational, and behavioral sources of data to paint a clear picture of experience drivers.",30+ days ago,2021-01-11,https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CT8vBT9H5mqECx2dfLV_FONLPDKpIRssxVwtj05Tmm4qxTAI2czriaY4YcQXrGzkHp5sK0eIMMi_Hgf9kUx6op8JVy9pj5c53bOMW1QFPU_fhXema3FIFpipUGbsLKEaIHTk_b5dkicvEQsU4zHMRygM62qgD0MyqcZX4ZcJJ8Uh0F1nPYDxb1-MqHid3COy_5eCELs8xnUtUjDkoPAUNWZggram63JA2uECBb15x37v2JJN9CblbwFvDZnn11Azo9yBVQXbE8axANU6FNi6haSdVI9m4XmylcomhQmuJZyqaoV-0H05Nw-euVDx5tEKfnX1qjTB9i0KQ9tj4KPs6NkJXBnDjwcqVzBzfEN_qG6LYAE2u8P3FR6F0hyUKOe0z-aVSxmYZmo6vojzsLJh36sAuWCyJ2jeJadlvCOqvQAKdBUeQQfpfBH5AcvyX2ur4FkGJbraAFmfpVuxY-R3_WIwJdVKqXtKIpz9bBfuhaivvgwmwOrKUSkJsH7Ryd-s7dCNPEyHGV18_Tvo99eaYXFiuc1PUuFQVNH9ehDPXqLkoVq3kAfbhoMpIb4LOUp0-cCMf-360fkiaRTw61eLMhCSdzO0pqx-kk1PKSCdA9sNCLS1XdyM4oIsMo77K0_rDRrxT9qd34Ld563-bZ7QzJRt5S9a5ghh6vYTa2-UJL3lk2tfdBUQhp9vjosihebbOoRmPb-00IUkSOiaQi-DBOK1dq-S_n8oQSYv6eFtWUHtwxmUn9bWHSJ7VJBksgkeWcyjFih0aR1UJQLiGQK5pHQ4rMzKw9Ooof45Z3_cSo9_B-x0Zge2M8s90gEvylxnYwdZy6kVAwvEp0_QlqGaBCr3yvAc320l_V4trmrESsTmjC5JaUWos0blu9gw-G3HGL0ARWnrAaBZ00ApLcrrKCvm3AYcY4QYMiLFe4X37sCw7aSQ4k-PnEh7Ffn7dpCOxNM_V1ZP4lPw==&p=9&fvj=0&vjs=3
+Sr. Business Analyst (Data Center experience),,Equinix,"Sunnyvale, CA",,3.8,"3-5 years of Data Center experience, required.
+Ability to document and prototype business use cases and data flows.
+Drive pilot programs and proof of concepts.",4 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=d85ef6898fb7d21b&fccid=e15d9e27876d9dc3&vjs=3
+Service Now Business analyst,$42 - $84 an hour,Searchbourne consulting,"Santa Clara, CA",Temporarily remote,,"Minimum 8 years’ experience as a business analyst or related experience with a Bachelor’s degree.
+Create and present functional and technical design including…",18 days ago,2021-01-11,https://www.indeed.com/company/SearchBourne-Consulting/jobs/Service-Business-Analyst-3718fed44c3256da?fccid=d23c2b89c9f05123&vjs=3
+"Senior Data Analyst, Marketing Analytics",,Cruise,"San Francisco, CA",,2.8,"Ensuring that analytics tools are implemented correctly to capture appropriate data.
+Building data visualization templates/ presentations that share relevant…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=d1533ba6bd92e54a&fccid=3322e3b44a5a0777&vjs=3
+IT Business Analyst,,Eurofins Central Laboratory,"Fremont, CA",,3.0,"Highly analytical with the ability to identify key insights from data.
+7+ years of business analyst experience or other relevant experience.",2 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=29bae12d835137ac&fccid=da33f48dbeb2e889&vjs=3
+Jr. Business Intelligence Analyst,"$75,000 - $85,000 a year",Stanford Federal Credit Union,"Palo Alto, CA",,3.0,"Continue to tune reports and code to enhance data analysis.
+Analyze, understand, interpret and explain data trends to identify opportunities.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=f8f7f196bfa5d8ed&fccid=18e786e431fd7292&vjs=3
+Data Analyst,,Everlane,"San Francisco, CA",,3.8,"Proficiency in R or Python, with an emphasis on data manipulation and visualization.
+This role will be focused on some of Everlane's most critical optimization…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=4d5cba1320648169&fccid=1946e9cca8148fe1&vjs=3
+"Strategy and Operations Analyst, Acquisitions, Google Customer Solutions",,Google,"Redwood City, CA",,4.3,"Proven ability to strategically analyze and synthesize data into actionable insights.
+Lead quantitative analyses and advanced modeling that translates data into…",4 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=c8bdd000812b5b63&fccid=a5b4499d9e91a5c6&vjs=3
+Computer Systems Analyst,,Seniors and Juniors,"Pleasant Hill, CA",,,Develops and implements data collection systems and other strategies that optimize statistical efficiency and data quality.,30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=c7b975a7369e8bee&fccid=82eca3f59cf98f46&vjs=3
+Senior Clinical Data Analyst,,Freenome Holdings,"South San Francisco, CA",,,"Four years of direct experience processing data, analyzing data, and integrating data from multiple sources in clinical research or healthcare IT environment.",24 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=a095dcd101a7ef5c&fccid=26462688a7317015&vjs=3
+122 HEALTHCARE ANALYTICS - Senior Business Intelligence Analyst,"$102,770 - $154,150 a year",Alameda Alliance,"Alameda, CA",,2.5,"Create data sets, extract and synthesize data..
+This position requires an in-depth understanding of healthcare operations and data (e.g. member, claims,…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=8d09f706b43bdf50&fccid=540d1028cf8a5b40&vjs=3
+Italian Speaking Data Analyst J548,,Anzu Global,"Cupertino, CA",,,"Acquire data from primary or secondary data sources and maintain databases/data systems.
+Strong data and analytic skills, knowledge of excel, numbers and data…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=b863fe990831a59b&fccid=2ead64c0f8ff0cc3&vjs=3
+Business Analyst,,Lumetra Healthcare Solutions,"San Francisco, CA",,4.0,"Accuracy of all data; developing reports on content; maintaining daily tool functionality and.
+Proficiency in SQL queries and reporting using system data…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=250ce7791ea6e704&fccid=a2532b20ee587944&vjs=3
+Data Analytics Manager - IDC,,Facebook,"Fremont, CA",,4.2,"Define data requirements and drive the development of data pipelines.
+Work with Data Engineering to understand existing security data and identify data quality…",25 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=57515c79670443ba&fccid=1639254ea84748b5&vjs=3
+"Consulting Data Analyst - Epidemiology, Bio-statistics, R, SAS, SQL",,Kaiser Permanente,"Oakland, CA",,4.1,"Tests and maintains data integrity.
+Experience creating and maintaining programs to extract data from Kaiser-s various data sources and developing cleaned…",24 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=dda761e9812cd3ca&fccid=48ecd526e3aa3225&vjs=3
+"Data Analyst, Lab Operations",,Invitae,"San Francisco, CA",,3.4,"1+ yrs experience manipulating data and troubleshooting applications in UNIX environments.
+They are expected to take initiative to automate tasks and…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=75c9932c6b21ac6e&fccid=03925754e1730576&vjs=3
+Health Data Analyst,,Nuna,"San Francisco, CA",,,"In this role you'll work as part of a cross-functional team of engineers, healthcare data experts, product managers, and customer liaisons to expand, adapt and…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=4ab19390310b00e3&fccid=3cb3ba377c877a98&vjs=3
+Business Analyst,,Delta Electronics (Americas) Ltd.,"Fremont, CA",,2.6,"\* Analyze data to identify trends that drive data-based decision making for the business.
+Attentive to detail to condense complex data set findings into a…",21 days ago,2021-01-11,https://www.indeed.com/company/Delta-Electronics-(Americas)-Ltd./jobs/Business-Analyst-60a2c21a414c65c0?fccid=84f2e714ff02bc0d&vjs=3
+Business Intelligence Analyst,,SYNNEX Corporation,"Fremont, CA",,3.5,"Collaborates with database analyst to define right data, clean and transform in DWH as required, compare reporting outputs to source data, identify data issue…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=5a3a7c1030ee9e7b&fccid=46ea6f509dcaed61&vjs=3
+"Analyst, Salesforce Effectiveness - Abbott Diabetes Care",,Abbott Laboratories,"Alameda, CA",,4.0,"Must have strong quantitative abilities/experience in data management, data gathering, and analysis.
+Accumulate business rules, coordinate data and perform…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=6f3621d846c7f4e0&fccid=7942658690eba67c&vjs=3
+Business Analyst,,Spiral Scout,"San Francisco, CA",,,"Take part in presales activities and prepare artifacts: feature list, V&S, BRD;
+Assist in writing sales proposals and SOW;
+3+ years of BA experience;",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=40e1cb20e6d7cf55&fccid=26f49b326987da28&vjs=3
+Senior Technical Data Analyst,,GoFundMe,"Redwood City, CA",Temporarily remote,,"Learn and assist data engineers with data transformations and ETL projects.
+5+ years experience in data analysis and science using web, marketing, product and…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=2408f3ba345b5eed&fccid=688601c4addc2d06&vjs=3
+Business Intelligence (BI) Intern,,Nextdoor,"San Francisco, CA",,4.5,"Drive data literacy for business users on our data platform by creating and documenting data structures.
+Ensure consistent data availability and address data…",24 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=19a073ccfbe7e852&fccid=38eca8156471a9d2&vjs=3
+Business Analyst,,First Republic Bank,"San Francisco, CA",,3.9,"Adhering to Bank policies and procedures, 3) completing required training, 4) identifying and reporting suspicious activity to the AML Officer, and 5) knowing…",26 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=6f6463db0922ae44&fccid=e228a3c78d0f7f13&vjs=3
+"Planning Analyst II - Strategy and Planning (1.0 FTE, Days)",,Lucile Packard Children's Hospital,"Palo Alto, CA",,4.0,"Extracts, gathers, and analyzes institutional and professional volume, cost, and revenue data; market data; and benchmark data to assess market opportunity and…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=18a0fbb9c41dd6b1&fccid=fee8036fd3ff6e31&vjs=3
+Epidemiologist / Data Quality Analyst,,Heluna Health,"Richmond, CA",Remote,3.7,"Ability to perform data entry, data cleaning, and data quality assessment with attention to detail.
+Clean data and maintain data quality and completeness.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=00902eef93157aa8&fccid=b27e6fc6d7424c31&vjs=3
+Partner Operations Analyst,,"Five9, Inc.","San Ramon, CA",,3.6,"Bachelor degree required and 5 to 8+ years sales/partner operations support experience.
+Weekly/Monthly/Quarterly reporting - Analyzes data to spot anomalies and…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=ad6caf1f99a3067d&fccid=401ad1536026b66d&vjs=3
+"Lead Business Intelligence Analyst (San Francisco, CA)",,Earnest,"San Francisco, CA",,3.7,"6+ years of experience in a data-centric role.
+Lead Looker administration, managing the governance that allows for responsible data democratization.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=f04f8f1eed34f223&fccid=529234c3ed329691&vjs=3
+"Director, Data Science & Analytics - Content Supply",,Roblox,"San Mateo, CA",,4.3,"We cover a wide area of the data spectrum including analytical data engineering, product analytics, experimentation, causal inference, statistical modeling and…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=459d1ef50c635326&fccid=04ef150429d33336&vjs=3
+"Business Intelligence Analyst, New Initiatives",,Amazon.com Services LLC,"San Francisco, CA",,3.6,"Understanding of data warehousing and data modeling.
+Advanced SQL knowledge for data mining and processing.
+Ability to work effectively with Data Engineers and…",24 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=d0f3121117553253&fccid=fe2d21eef233e94a&vjs=3
+IS Business Analyst- Senior - HSA,$51.64 - $64.96 an hour,City & County of San Francisco,"San Francisco, CA",,4.0,"The incumbent will be responsible for data extractions and data loading across a variety of data sources.
+The Business Intelligence (BI) and Data Warehouse (DW)…",3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=784a5aa76480239e&fccid=a411072d5a46f13f&vjs=3
+Business Analysts,,DeciTech Consulting,"Fremont, CA",,,"Assist in evaluating business functional requirements and organizational systems; perform data gathering, gap analysis and review, present recommendations,…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=71c9f984ea92fab8&fccid=d235fe4408376999&vjs=3
+Business Intelligence Analyst,,NGUSoft,"Fremont, CA",,,Identifies and informs data management of new sources and attributes for their governance and participates in data quality initiatives.,30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=b6624977cb030e14&fccid=b7104516807f9312&vjs=3
+Business Analyst,,Kforce,"San Francisco, CA",,3.8,"7 years of experience as a business analyst.
+Drafting and refining User Stories (writing samples required).
+Collaborating with cross-functional teams.",25 days ago,2021-01-11,https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0C5IatSLh_Ak1q39eQQoPIxD737RW9NeiYGvIRXkrLjEKQldVMIR3Zzy_IOBPbW8apjvBGmqjn6fCPub1wNyKOXa7Fzds9Fmu8bdm5MbdNqzi9USIwn3mgjkc6AfoZVJ3HCSUS7jSr5okXuTdCecc8oG6926xOk1uG4JKDwhe86hJac_TOypf6RFIInAEyG4iuDjmIobSjZHK8c3sMx8vwgCFwh9wus1OI5KOxvY9w7AKGndgNHG7b0UkZb1c2Ov9sWhrG4ewekT4FQ834p_bPAsk2n_1g915tt8ZTRzcj4gYfgtE0xbWhcDb06_vxgH3_aa0sy2jOt21rndZOpA9C0gf1_B-qwRH-r3yiAjYxqJaWwAqu4z7g5QnQgor_FVcgwug_kDzCc1JMPk_PEmBFMga1pETpeO3k-DSQjcMDc64H4DMzs6Ap_7SG2dAcXwCtm2a60tpPhEaq7oOrjKkDJHGB9-b9KEheDmCqz2i1ZlZNr1Oc3gD-08pTgpu3eOqwwT-7tlhke86XJYxQLYqJ3uGV1ZsvsLyFgxz0u4aZ_zjxsWO3ZKMZ1&p=12&fvj=0&vjs=3
+Project Manager/ Business Analyst,,energyOrbit,"San Francisco, CA",,,"After nearly nine years in business, energyOrbit is proud to maintain 100% customer referenceability.
+EnergyOrbit provides the leading DSM Operations Platform…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=acc695eaec2eb31c&fccid=6a2980e7b3821e4e&vjs=3
+Business Analyst,,Bloom Energy,"San Jose, CA",,3.3,"Review and reconcile transactions by comparing and correcting data.
+Support management decision making by analyzing and interpreting data and making comparative…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=5f8f893cddb3710b&fccid=04ef0d72e1a71432&vjs=3
+Director of Data Analytics & Science,,Intuit,"Mountain View, CA",,4.2,"Understands and teaches proven methods and hacking skills in working with divergent data types at scale, to explore and extrapolate data-driven insights using…",2 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=a641d02b8f560979&fccid=9784ae78e9834539&vjs=3
+Support Business Analyst / Project Coordinator,,"DynPro, Inc.","San Jose, CA",,3.8,"5 years’ experience in support of business users, should have good communication skills.
+The analyst will be part of the Scrum meetings representing support…",5 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=b94556af1caf46b0&fccid=f511d6a4d4b04eb0&vjs=3
+"Analyst, Business Intelligence",,Qualys,"Foster City, CA",,3.7,"Extremely detail-oriented and organized with prior experience having gathered, structured, monitored, and validated data to ensure data integrity and detailed…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=4013c884f8c026d1&fccid=230fd3df850fa242&vjs=3
+Corporate Finance Systems and Analytics Analyst,,Twitter,"San Francisco, CA",,4.1,Understand how data is generated and used within the company and enhance data collection and data management processes.,30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=a13dbab0caaae2aa&fccid=7a3824693ee1074b&vjs=3
+"Senior Analyst, BI / Visualizations",,Chime,"San Francisco, CA",Remote,,"As a Senior BI / Visualization Analyst, you will democratize data and drive data-obsessed decisioning for all employees by helping to lead and manage Chime's…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=55f1804943123863&fccid=0bb3d80f2a8cb633&vjs=3
+IT Business Analyst Intern,,Intuitive,"Sunnyvale, CA",,3.7,"Experience collaborating with engineers and other analysts who have been through the journey of product management.
+Launch, iterate and make a difference.",7 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=34231c6ef2f90e8b&fccid=d6b72d8e517818a0&vjs=3
+Business Analyst,,Digipath Infotech,"San Francisco, CA",Temporarily remote,,"Business analyst: 1 year (Preferred).
+Other Business Analyst capabilities such as excellent communication, collect requirements, good documentation practices,…",26 days ago,2021-01-11,https://www.indeed.com/company/Digipath-Infotech/jobs/Business-Analyst-810515e829ea15af?fccid=6953a635a1764523&vjs=3
+Data Analyst - Customer Feedback,,Ursus,"Menlo Park, CA",,4.9,"Consolidate customer feedback data with other transactional, operational, and behavioral sources of data to paint a clear picture of experience drivers.",30+ days ago,2021-01-11,https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CT8vBT9H5mqECx2dfLV_FONLPDKpIRssxVwtj05Tmm4qxTAI2czriaY4YcQXrGzkHp5sK0eIMMi_Hgf9kUx6op8JVy9pj5c53bOMW1QFPU_fhXema3FIFpipUGbsLKEaIHTk_b5dkicvEQsU4zHMRygM62qgD0MyqcZX4ZcJJ8Uh0F1nPYDxb1-MqHid3COy_5eCELs8xnUtUjDkoPAUNWZggram63JA2uECBb15x37v2JJN9CblbwFvDZnn11Azo9yBVQXbE8axANU6FNi6haSdVI9m4XmylcomhQmuJZyqaoV-0H05Nw-euVDx5tEKfnX1qjTB9i0KQ9tj4KPs6NkJXBnDjwcqVzBzfEN_qG6LYAE2u8P3FR6F0hyUKOe0z-aVSxmYZmo6vojzsLJh36sAuWCyJ2jeJadlvCOqvQAKdBUeQQfpfBH5AcvyX2ur4FkGJbraAFmfpVuxY-R3_W1rIMtYSV-HDBW8-DSyxhnGkLcxd2okSS38RAY6NTf7ZpeLJrMSAP9B2MoohAca5uNjfC5rkkYOfcsPB--6CT6-_V_G21Zu8m6H-NvKj9tFTE1A9cUIeclgoicqeEnDcyYqO64pGmtRAymO8hmqlfcialyLB_imfmN28IRfPoDVcGY5OU62XZ4pJjiys28eQJOndINStBJ6MKcErgrKLruAtqqC7bZvebSFOSYygwpAUFkMH0OCrnjOlHkM2ihvGDEux8WcM543-w7i9waiBPnwaPsqpZL5lDX2PLe4vaoOEqMwpb6xpWG0ft-eSmt-Ed-invEjUGIKKd-hMrkJxdD3IohpnT6IxWZQ2mfp83GMkJ7RZWjRekycLFK-49pMHytTD2wZCb6ZrwgaXgM0tIGA-FXn9aA49Udk1uOJtbqAgWBLXpSFXkdvFLQmUOIZoQq7wqqjwkwLni-bpSBlPx95wvtNh-ByHfiRjyYotE8TIvNAPf_moICQ==&p=7&fvj=0&vjs=3
+HR System & Data Analyst,,Lacework,"San Jose, CA",,5.0,"Show a passion for being the guardian of the data, who identifies potential impact to data integrity for any system changes, including upgrades and integrations…",12 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=64325967ae7eb139&fccid=8469cd4f29c48ff5&vjs=3
+Sr. Associate-Data Analytics,,Grail Insights,"San Francisco, CA",,,"Working knowledge of Tableau or similar BI / data visualization software.
+Maintain data flows used operational reporting and ad hoc analysis for the Compliance…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=d244e75893010a47&fccid=6fd4614430f46484&vjs=3
+Marketing and SEO Data Analyst,,SCS Global Services,"Emeryville, CA",,3.1,"Summarizes and analyzes data; makes recommendations related to research findings.
+Forecasts and tracks industry marketing and sales trends based on collected…",23 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=bc2259ebb61998e0&fccid=b9438ae850d303eb&vjs=3
+Records and Information Management Analyst,,Federal Reserve Bank of San Francisco,"San Francisco, CA",,4.1,"Travel Yes, 5 % of the Time.
+Ability to understand associated technology, and analyze data and industry trends in order to recommend improvements.",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=8ae8b2e831efd2c6&fccid=930b1e7129637954&vjs=3
+Business Analyst - CPO,,Federal Reserve Bank of San Francisco,"San Francisco, CA",,4.1,"Full-time / Part-time Full-time.
+Travel Yes, 25 % of the Time.
+CPO/NCA is currently looking for three Business Analyst to support our portfolio of projects.",3 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=f9b72cc6530a962c&fccid=930b1e7129637954&vjs=3
+Business Intelligence Analyst,,BlueVine,"Redwood City, CA",,,"Compare reporting outputs to source data, identify data quality issues and resolve.
+ETL, ELT and data engineering experience.
+MS in a related field.",27 days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=f15c31d542a24a0e&fccid=3c2181d40a370308&vjs=3
+BUSINESS ANALYST,,CIPPlanner,"San Ramon, CA",,,"Analyze, document and communicate system and business processes;
+Be an instrumental player of software implementation project teams throughout the life cycle of…",30+ days ago,2021-01-11,https://www.indeed.com/rc/clk?jk=ba000edcd33e753f&fccid=1d5248ca02a6fdaa&vjs=3
+>>>>>>> 362568a4bec0db48762cec59bc59ec04f611d4ae
