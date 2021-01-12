@@ -113,7 +113,7 @@ def extract(position, location):
         except AttributeError:
             break
     print(len(records))
-    with open("./outputs/job_postings_data_scientist_"+location+".csv", mode= 'w', newline='', encoding='utf-8') as f:
+    with open("./outputs_2/job_postings_data_analyst_"+location+".csv", mode= 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         writer.writerow(['job_title','salary', 'company', 'location','is_remote', 'job_rating', 'job_summary', 'post_date', 'extract_date', 'job_url'])
         writer.writerows(records)
@@ -148,7 +148,7 @@ cities = [
             'New York, NY']
 
 for i in cities:
-    extract('data scientist', i)
+    extract('data analyst', i)
 
 
 
