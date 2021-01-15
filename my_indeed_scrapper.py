@@ -158,7 +158,7 @@ cities = [
          'Washington DC',
        'Miami FL',
         'Charleston SC',
-        #  'Minneapolis MN',
+         'Minneapolis MN',
           'Chicago IL',
        'Fort Lauderdale FL',
         'Portland OR',
