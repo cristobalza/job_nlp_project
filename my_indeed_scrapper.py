@@ -99,7 +99,7 @@ def extract(position, location):
         # print(response.reason) # Expected to be OK
         # print(response.text)
         # print(response.content)
-        soup = BeautifulSoup(response.text, 'html.parser' )
+        soup = BeautifulSoup(response.text, "html.parser" )
         # print(soup)
         cards = soup.find_all('div', 'jobsearch-SerpJobCard')
 
@@ -152,25 +152,25 @@ cities = [
 #  'San Francisco CA',
 #   'Anchorage AK',
 #    'Oakland CA',
-       'Boston MA',
-        'Seattle WA',
-         'Honolulu HI', 
-         'Washington DC',
-       'Miami FL',
-        'Charleston SC',
-        #  'Minneapolis MN',
-          'Chicago IL',
-       'Fort Lauderdale FL',
-        'Portland OR',
-         'Irvine CA',
-          'Los Angeles CA',
-       'Philadelphia PA',
-        'Pittsburgh PA',
-         'Cleveland OH',
-          'Milwaukee WI',
-       'Sacramento CA',
-        'San Diego CA',
-         'Asheville NC',
+    #    'Boston MA',
+    #     'Seattle WA',
+    #      'Honolulu HI', 
+    #      'Washington DC',
+    #    'Miami FL',
+    #     'Charleston SC',
+    #     #  'Minneapolis MN',
+    #       'Chicago IL',
+    #    'Fort Lauderdale FL',
+    #     'Portland OR',
+    #      'Irvine CA',
+    #       'Los Angeles CA',
+    #    'Philadelphia PA',
+        # 'Pittsburgh PA',
+        #  'Cleveland OH',
+        #   'Milwaukee WI',
+    #    'Sacramento CA',
+    #     'San Diego CA',
+    #      'Asheville NC',
           'San Jose CA',
        'New Orleans LA',
         'Birmingham AL',
@@ -203,7 +203,7 @@ cities = [
         'Houston TX',
          'Toledo OH',
           'Des Moines IA',
-       'Antonio TX',
+       'San Antonio TX',
         'Phoenix AZ',
          'Tulsa OK',
           'Madison WI',
@@ -219,9 +219,10 @@ cities = [
          'Huntsville AL',
           'Wichita KS',
        'Boise ID',
-        'El Paso TX']
+        'El Paso TX'
+        ]
 
 for i in cities:
     extract('data analyst', i)
-    extract('data scientist', i)
-    extract('machine learning engineer', i)
+    # extract('data scientist', i)
+    # extract('machine learning engineer', i)
