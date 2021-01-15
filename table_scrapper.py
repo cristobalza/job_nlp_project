@@ -5,7 +5,6 @@ import pandas as pd
 import re
 
 url='https://www.numbeo.com/cost-of-living/region_rankings.jsp?title=2020-mid&region=019'
-#Create a handle, page, to handle the contents of the website
 
 # Make a GET request to fetch the raw HTML content
 html_content = requests.get(url).text
@@ -14,15 +13,14 @@ html_content = requests.get(url).text
 soup = BeautifulSoup(html_content, "lxml")
 # print(soup.prettify()) # print the parsed data of html
 
-# On site there are 3 tables with the class "wikitable"
 # The following line will generate a list of HTML content for each table
 table = soup.find_all("table", attrs={"id": "t2"})
 print("Number of tables on site: ",len(table))
 
 # Select table of interest
-table1 = table[0]
+target_table = table[0]
 # the head will form our column names
-body = table1.find_all("tr")
+body = target_table.find_all("tr")
 # Head values (Column names) are the first items of the body list
 head = body[0] # 0th item is the header row
 body_rows = body[1:] # All other items becomes the rest of the rows

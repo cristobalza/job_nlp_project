@@ -118,37 +118,59 @@ def extract(position, location):
         writer.writerow(['job_title','salary', 'company', 'location','is_remote', 'job_rating', 'job_summary', 'post_date', 'extract_date', 'job_url'])
         writer.writerows(records)
 
-cities = [
-    'Austin, TX',
-            'Dallas, TX',
-            'Raleigh, NC',
-            'San Jose, CA',
-            'Sunnyvale, CA',
-            'Santa Clara, CA',
-            'Charlotte, NC',
-            'Seattle, WA',
-            'San Francisco',
-            'Oakland, CA',
-            'Hayward, CA',
-            'Atlanta, GA',
-            'Huntsville, AL',
-            'Denver, CO',
-            'Washington, D.C.',
-            'Boulder, CO',
-            'Durham, NC',
-            'Columbus, OH',
-            'Colorado Springs, CO',
-            'Boston, MA',
-            'Baltimore, MD',
-            'Madison, WI',
-            'San Diego, CA',
-            'Trenton, NJ',
-            'Los Angeles, CA',
-            'Houston, TX',
-            'New York, NY']
+# cities = [
+#     'Austin, TX',
+#             'Dallas, TX',
+#             'Raleigh, NC',
+#             'San Jose, CA',
+#             'Sunnyvale, CA',
+#             'Santa Clara, CA',
+#             'Charlotte, NC',
+#             'Seattle, WA',
+#             'San Francisco',
+#             'Oakland, CA',
+#             'Hayward, CA',
+#             'Atlanta, GA',
+#             'Huntsville, AL',
+#             'Denver, CO',
+#             'Washington, D.C.',
+#             'Boulder, CO',
+#             'Durham, NC',
+#             'Columbus, OH',
+#             'Colorado Springs, CO',
+#             'Boston, MA',
+#             'Baltimore, MD',
+#             'Madison, WI',
+#             'San Diego, CA',
+#             'Trenton, NJ',
+#             'Los Angeles, CA',
+#             'Houston, TX',
+#             'New York, NY']
+
+cities = ['New York NY', 'San Francisco CA', 'Anchorage AK', 'Oakland CA',
+       'Boston MA', 'Seattle WA', 'Honolulu HI', 'Washington DC',
+       'Miami FL', 'Charleston SC', 'Minneapolis MN', 'Chicago IL',
+       'Fort Lauderdale FL', 'Portland OR', 'Irvine CA', 'Los Angeles CA',
+       'Philadelphia PA', 'Pittsburgh PA', 'Cleveland OH', 'Milwaukee WI',
+       'Sacramento CA', 'San Diego CA', 'Asheville NC', 'San Jose CA',
+       'New Orleans LA', 'Birmingham AL', 'Tampa FL', 'Atlanta GA',
+       'Charlotte NC', 'Baltimore MD', 'Ann Arbor MI', 'Rochester NY',
+       'Denver CO', 'Spokane WA', 'Columbus OH', 'Albany NY',
+       'Colorado Springs CO', 'Knoxville TN', 'Orlando FL',
+       'Nashville TN', 'Buffalo NY', 'Olympia WA', 'Kansas City MO',
+       'Jacksonville FL', 'Raleigh NC', 'Detroit MI', 'Tucson AZ',
+       'Eugene OR', 'Reno NV', 'Richmond VA', 'Las Vegas NV',
+       'Louisville KY', 'Houston TX', 'Toledo OH', 'Des Moines IA',
+       'Antonio TX', 'Phoenix AZ', 'Tulsa OK', 'Madison WI',
+       'Salt Lake City UT', 'Dallas TX', 'Indianapolis IN',
+       'Little Rock AR', 'Austin TX', 'Cincinnati OH', 'Albuquerque NM',
+       'Fresno CA', 'Memphis TN', 'Huntsville AL', 'Wichita KS',
+       'Boise ID', 'El Paso TX']
 
 for i in cities:
     extract('data analyst', i)
+    extract('data scientist', i)
+    extract('machine learning engineer', i)
 
 
 
