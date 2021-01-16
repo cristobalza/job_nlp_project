@@ -202,30 +202,30 @@ cities = [
     #     'Reno NV',
     #      'Richmond VA',
     #       'Las Vegas NV',
-       'Louisville KY',
-        'Houston TX',
-         'Toledo OH',
-          'Des Moines IA',
-       'San Antonio TX',
+    #    'Louisville KY',
+    #     'Houston TX',
+    #      'Toledo OH',
+    #       'Des Moines IA',
+    #    'San Antonio TX',
     #     'Phoenix AZ',
     #      'Tulsa OK',
     #       'Madison WI',
     #    'Salt Lake City UT',
     #     'Dallas TX',
-         'Indianapolis IN',
-       'Little Rock AR',
-        'Austin TX',
-         'Cincinnati OH',
-          'Albuquerque NM',
-       'Fresno CA',
-        'Memphis TN',
-         'Huntsville AL',
-          'Wichita KS',
-       'Boise ID',
-        'El Paso TX'
+    #      'Indianapolis IN',
+    #    'Little Rock AR',
+    #     'Austin TX',
+    #      'Cincinnati OH',
+    #       'Albuquerque NM',
+    #    'Fresno CA',
+    #     'Memphis TN',
+    #      'Huntsville AL',
+    #       'Wichita KS',
+    #    'Boise ID',
+    #     'El Paso TX'
         ]
 
 for i in cities:
     # extract('data analyst', i)
     # extract('data scientist', i)
-    extract('machine learning engineer', i)
+    # extract('machine learning engineer', i)
