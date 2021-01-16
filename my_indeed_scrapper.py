@@ -1,4 +1,5 @@
 import csv
+import mechanize
 from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
@@ -96,10 +97,12 @@ def extract(position, location):
         # header = {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36" ,'referer':'https://www.google.com/'}
 
         response = requests.get(url)
+        # response = mechanize.urlopen(url)
         # print(response.reason) # Expected to be OK
         # print(response.text)
         # print(response.content)
         soup = BeautifulSoup(response.text, "html.parser" )
+        # soup = BeautifulSoup(response.read(), "html.parser" )
         # print(soup)
         cards = soup.find_all('div', 'jobsearch-SerpJobCard')
 
@@ -155,10 +158,10 @@ cities = [
     #    'Boston MA',
         # 'Seattle WA',
         #  'Honolulu HI', 
-         'Washington DC',
-       'Miami FL',
-        'Charleston SC',
-         'Minneapolis MN',
+    #      'Washington DC',
+    #    'Miami FL',
+    #     'Charleston SC',
+    #      'Minneapolis MN',
           'Chicago IL',
        'Fort Lauderdale FL',
     #     'Portland OR',
