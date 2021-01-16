@@ -152,7 +152,7 @@ def extract(position, location):
 
 cities = [
     # 'New York NY',
-#  'San Francisco CA',git 
+#  'San Francisco CA',
   'Anchorage AK',
    'Oakland CA',
        'Boston MA',
@@ -207,11 +207,11 @@ cities = [
          'Toledo OH',
           'Des Moines IA',
        'San Antonio TX',
-        'Phoenix AZ',
-         'Tulsa OK',
-          'Madison WI',
-       'Salt Lake City UT',
-        'Dallas TX',
+    #     'Phoenix AZ',
+    #      'Tulsa OK',
+    #       'Madison WI',
+    #    'Salt Lake City UT',
+    #     'Dallas TX',
          'Indianapolis IN',
        'Little Rock AR',
         'Austin TX',
