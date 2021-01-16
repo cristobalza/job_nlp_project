@@ -1,5 +1,5 @@
 import csv
-import mechanize
+# import mechanize
 from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
