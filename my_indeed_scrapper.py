@@ -155,7 +155,7 @@ cities = [
 #  'San Francisco CA',
 #   'Anchorage AK',
 #    'Oakland CA',
-       'Boston MA',
+    #    'Boston MA',
         'Seattle WA',
          'Honolulu HI', 
          'Washington DC',
