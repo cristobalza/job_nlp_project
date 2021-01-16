@@ -153,8 +153,8 @@ def extract(position, location):
 cities = [
     # 'New York NY',
 #  'San Francisco CA',
-  'Anchorage AK',
-   'Oakland CA',
+#   'Anchorage AK',
+#    'Oakland CA',
        'Boston MA',
         'Seattle WA',
          'Honolulu HI', 
