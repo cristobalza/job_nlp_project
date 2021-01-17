@@ -17,7 +17,8 @@ def get_url(position, location):
 
 def get_record(card):
     """
-    Extract Job data from a single Job Post
+    Extract Job data from a single Job Post.
+    Will extract information such as: title, url link, salary, location, and others.
     """
     atag = card.h2.a
     # title
@@ -87,7 +88,10 @@ def get_record(card):
 
 def extract(position, location):
     """
-    Run 
+    position: job of interest
+    location: place where you want to work
+
+    Using the position and location of interest, the function will extract information and write it in a csv file.
     """
     url = get_url(position, location)
     print(url)
@@ -150,82 +154,88 @@ def extract(position, location):
 #     'Houston, TX',
 #     'New York, NY']
 
-cities = [
-    'New York NY',
-    'San Francisco CA',
-    'Anchorage AK',
-    'Oakland CA',
-    'Boston MA',
-    'Seattle WA',
-    'Honolulu HI', 
-    'Washington DC',
-    'Miami FL',
-    'Charleston SC',
-    'Minneapolis MN',
-    'Chicago IL',
-    'Fort Lauderdale FL',
-    'Portland OR',
-    'Irvine CA',
-    'Los Angeles CA',
-    'Philadelphia PA',
-    'Pittsburgh PA',
-    'Cleveland OH',
-    'Milwaukee WI',
-    'Sacramento CA',
-    'San Diego CA',
-    'Asheville NC',
-    'San Jose CA',
-    'New Orleans LA',
-    'Birmingham AL',
-    'Tampa FL',
-    'Atlanta GA',
-    'Charlotte NC',
-    'Baltimore MD',
-    'Ann Arbor MI',
-    'Rochester NY',
-    'Denver CO',
-    'Spokane WA',
-    'Columbus OH',
-    'Albany NY',
-    'Colorado Springs CO',
-    'Knoxville TN',
-    'Orlando FL',
-    'Nashville TN',
-    'Buffalo NY',
-    'Olympia WA',
-    'Kansas City MO',
-    'Jacksonville FL',
-    'Raleigh NC',
-    'Detroit MI',
-    'Tucson AZ',
-    'Eugene OR',
-    'Reno NV',
-    'Richmond VA',
-    'Las Vegas NV',
-    'Louisville KY',
-    'Houston TX',
-    'Toledo OH',
-    'Des Moines IA',
-    'San Antonio TX',
-    'Phoenix AZ',
-    'Tulsa OK',
-    'Madison WI',
-    'Salt Lake City UT',
-    'Dallas TX',
-    'Indianapolis IN',
-    'Little Rock AR',
-    'Austin TX',
-    'Cincinnati OH',
-    'Albuquerque NM',
-    'Fresno CA',
-    'Memphis TN',
-    'Huntsville AL',
-    'Wichita KS',
-    'Boise ID',
-    'El Paso TX'
+def main(cities):
+    """
+    Main function that passes the list of cities of interest.
+    """
+    for i in cities:
+        # print(i)
+        # extract('data analyst', i)
+        # extract('data scientist', i)
+        # extract('machine learning engineer', i)
+if __name__ == "__main__":
+    cities = [
+        'New York NY',
+        'San Francisco CA',
+        'Anchorage AK',
+        'Oakland CA',
+        'Boston MA',
+        'Seattle WA',
+        'Honolulu HI', 
+        'Washington DC',
+        'Miami FL',
+        'Charleston SC',
+        'Minneapolis MN',
+        'Chicago IL',
+        'Fort Lauderdale FL',
+        'Portland OR',
+        'Irvine CA',
+        'Los Angeles CA',
+        'Philadelphia PA',
+        'Pittsburgh PA',
+        'Cleveland OH',
+        'Milwaukee WI',
+        'Sacramento CA',
+        'San Diego CA',
+        'Asheville NC',
+        'San Jose CA',
+        'New Orleans LA',
+        'Birmingham AL',
+        'Tampa FL',
+        'Atlanta GA',
+        'Charlotte NC',
+        'Baltimore MD',
+        'Ann Arbor MI',
+        'Rochester NY',
+        'Denver CO',
+        'Spokane WA',
+        'Columbus OH',
+        'Albany NY',
+        'Colorado Springs CO',
+        'Knoxville TN',
+        'Orlando FL',
+        'Nashville TN',
+        'Buffalo NY',
+        'Olympia WA',
+        'Kansas City MO',
+        'Jacksonville FL',
+        'Raleigh NC',
+        'Detroit MI',
+        'Tucson AZ',
+        'Eugene OR',
+        'Reno NV',
+        'Richmond VA',
+        'Las Vegas NV',
+        'Louisville KY',
+        'Houston TX',
+        'Toledo OH',
+        'Des Moines IA',
+        'San Antonio TX',
+        'Phoenix AZ',
+        'Tulsa OK',
+        'Madison WI',
+        'Salt Lake City UT',
+        'Dallas TX',
+        'Indianapolis IN',
+        'Little Rock AR',
+        'Austin TX',
+        'Cincinnati OH',
+        'Albuquerque NM',
+        'Fresno CA',
+        'Memphis TN',
+        'Huntsville AL',
+        'Wichita KS',
+        'Boise ID',
+        'El Paso TX'
         ]
-
-for i in cities:
-    # extract('data analyst', i)
-    # extract('data scientist', i)
-    # extract('machine learning engineer', i)
+    main(cities)
