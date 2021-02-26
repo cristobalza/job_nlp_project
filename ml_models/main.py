@@ -107,7 +107,12 @@ class SalaryModel_Delta(trainer_model.Model):
 
 
 if __name__ == "__main__":
-    dfx = pd.read_csv("./data/final_only_salary_us_data_jobs.csv")
+    df = pd.read_csv("./data/final_only_salary_us_data_jobs.csv")
+
+    cut_bins = [0,50000,70000,90000,120000,150000, 300000, 600000]
+    df['salary_bins'] = pd.cut(df['yearly_adjusted_salary'],
+                                            bins=cut_bins, 
+                                            labels = False)
 
     text = df['combined_text']
     target_class = df['salary_bins'].astype('category')
@@ -140,4 +145,12 @@ if __name__ == "__main__":
         epochs=50,
         fp16=True,
     )
-    model.save("model.bin")
+    with open(r"./binary_models/fitted_vectorizer.pkl", "wb") as f:
+        pickle.dump(tfidf_vectorizer, f)  
+
+
+    # model = SGDClassifier(alpha=0.0001, max_iter=500, n_jobs=3).fit(tfidf_vectorizer_vectors, y)
+
+    # Create a new pickle file based on the best model
+    with open(r"./binary_models/finalized_sgd_model.pkl", "wb") as f:  
+        pickle.dump(clf, f)
