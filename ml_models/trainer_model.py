@@ -12,12 +12,66 @@ import torch
 import torch.nn as nn
 
 class Model(nn.Module):
-    def __init__(self, *args, **kwargs):
-        super().__init(*args, **kwargs)
-        self.optimizer = None
-        self.scheduler = None
-        self.train_loader = None
-        self.valid_loader = None
+   def _init_model(
+        self,
+        device,
+        train_dataset,
+        valid_dataset,
+        train_sampler,
+        valid_sampler,
+        train_bs,
+        valid_bs,
+        n_jobs,
+        callbacks,
+        fp16,
+        train_collate_fn,
+        valid_collate_fn,
+    ):
+
+        if callbacks is None:
+            callbacks = list()
+
+        if n_jobs == -1:
+            n_jobs = psutil.cpu_count()
+
+        self.device = device
+
+        if next(self.parameters()).device != self.device:
+            self.to(self.device)
+
+        if self.train_loader is None:
+            self.train_loader = torch.utils.data.DataLoader(
+                train_dataset,
+                batch_size=train_bs,
+                num_workers=n_jobs,
+                sampler=train_sampler,
+                shuffle=True,
+                collate_fn=train_collate_fn,
+            )
+        if self.valid_loader is None:
+            if valid_dataset is not None:
+                self.valid_loader = torch.utils.data.DataLoader(
+                    valid_dataset,
+                    batch_size=valid_bs,
+                    num_workers=n_jobs,
+                    sampler=valid_sampler,
+                    shuffle=False,
+                    collate_fn=valid_collate_fn,
+                )
+
+        if self.optimizer is None:
+            self.optimizer = self.fetch_optimizer()
+
+        if self.scheduler is None:
+            self.scheduler = self.fetch_scheduler()
+
+        self.fp16 = fp16
+        if self.fp16:
+            self.scaler = torch.cuda.amp.GradScaler()
+
+        self._callback_runner = CallbackRunner(callbacks, self)
+        self.train_state = enums.TrainingState.TRAIN_START
+
 
     def forward(self, *args, **kwargs):
         super().forward(*args, **kwargs)
