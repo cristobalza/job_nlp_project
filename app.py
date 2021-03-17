@@ -13,7 +13,14 @@ from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import SGDClassifier
 
-labels = [' Less than 50K', 'Between 50K and 70K', 'Between 70K and 90K', 'Between 90K and 120K', 'Between 120K and 150K', 'Between 150K and 300K', 'Between 300K and 600K']
+labels = [' Less than 50K',
+            'Between 50K and 70K',
+            'Between 70K and 90K',
+            'Between 90K and 120K',
+            'Between 120K and 150K', 
+            'Between 150K and 300K', 
+            'Between 300K and 600K'
+            ]
 vector = pickle.load(open('./binary_models/fitted_vectorizer.pkl','rb'))
 model =  pickle.load(open('./binary_models/finalized_sgd_model.pkl','rb'))
         
