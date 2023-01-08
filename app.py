@@ -13,6 +13,9 @@ from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import SGDClassifier
 
+import warnings
+warnings.filterwarnings('ignore')
+
 labels = [' Less than 50K',
             'Between 50K and 70K',
             'Between 70K and 90K',
